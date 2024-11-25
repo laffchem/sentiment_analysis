@@ -27,23 +27,28 @@ def count_sentiments(sentiments: list[str], file: str) -> int:
 
 
 # Takes the list of files and returns a dictionary with the sentiment difference
-def run_files(filenames: list[str]) -> dict[str, int]:
-    result: dict[str, int] = {}
+def run_files(filenames: list[str]) -> dict[str, dict[str, int]]:
+    result: dict[str, dict[str, int]] = {}
     for file in filenames:
         positive_count: int = count_sentiments(positive_sentiments, file)
         negative_count: int = count_sentiments(negative_sentiments, file)
         sentiment_diff: int = positive_count - negative_count
-        result[file] = sentiment_diff
+        result[file] = {
+            "Positive Count": positive_count,
+            "Negative Count": negative_count,
+            "Sentiment Difference": sentiment_diff,
+        }
     return result
 
 
 # Creates a table with the sentiment difference
-def create_sentiment_table(sentiment_results: dict[str, int]) -> pd.DataFrame:
-    df = pd.DataFrame(
-        list(sentiment_results.items()), columns=["Stock", "Sentiment Difference"]
-    )
+def create_sentiment_table(
+    sentiment_results: dict[str, dict[str, int]]
+) -> pd.DataFrame:
+    df = pd.DataFrame.from_dict(sentiment_results, orient="index")
+    df.index.name = "Stock"
+    df = df.reset_index()
     df = df.sort_values(by="Sentiment Difference", ascending=False)
-    print(df)
     return df
 
 
@@ -84,7 +89,7 @@ filenames: list[str] = [
 def main() -> None:
     sentiment_results = run_files(filenames)
     sentiment_table = create_sentiment_table(sentiment_results)
-    sentiment_table.to_csv("sentiment_table.csv")
+    sentiment_table.to_csv("sentiment_table.csv", index=False)
     print(sentiment_table)
 
 
