@@ -1,8 +1,8 @@
 import pandas as pd
 from striprtf.striprtf import rtf_to_text
 
-negative_df = pd.read_csv("LoughranMcDonald_Negative.csv")
-positive_df = pd.read_csv("LoughranMcDonald_Positive.csv")
+negative_df = pd.read_csv("data/LoughranMcDonald_Negative.csv")
+positive_df = pd.read_csv("data/LoughranMcDonald_Positive.csv")
 
 positive_sentiments: list[str] = (
     positive_df.values.flatten().tolist()
