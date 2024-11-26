@@ -1,0 +1,392 @@
+
+User Name: = 
+Date and Time: = 2024-11-25
+Job Number: = 239402452
+
+Documents (10)
+Client/Matter: -None-
+Search Terms: Microsoft Corp and publication-type(Newspapers)
+Search Type: Boolean
+Content Type|Narrowed by|
+news|Language: English Timeline: Jan 01, 2024 to Jul 31, 2024 Geography News: North America Subject: Business News |
+
+1. Apple 's slump deepens in wait for AI Market value falls below rival Microsoft Corp. as investor impatience grows over new projects
+
+2. Musk's xAI raises US$ 6 billion in bid to challenge OpenAI
+
+3. The Chicago Tribune and more sue OpenAI and Microsoft - The Ticker
+
+4. Microsoft mobile-game store to vie with Apple , Google
+
+5. Seoul shares open lower ahead of Fed rate decision, earnings
+
+6. Microsoft reports outage of Office applications and services
+
+7. Reports Claim Hackers Breached OpenAI In 2023
+
+8. Seoul shares sharply down late Tue. morning ahead of Fed meeting
+
+9. Microsoft Global Outage: Netizen celebrates 'blue screen day'; says 'guys at work having a field day'
+
+10. New York Times vs OpenAI: Is there a case for copyright? As this lawsuit weaves its way through the court, more such challenges for the law are likely to emerge
+
+
+
+
+
+
+
+
+Apple's slump deepens in wait for AI; Market value falls below rival Microsoft Corp. as investor impatience grows over new projects
+The Toronto Star
+March 6, 2024 Wednesday
+ONT Edition
+
+
+Copyright 2024 Toronto Star Newspapers Ltd. All Rights Reserved
+Section: BUSINESS; Pg. B4
+Length: 461 words
+Byline: Carmen Reinicke Bloomberg
+Body
+
+
+  Apple Inc.'s move to shutter its electric car efforts and divert those resources to artificial intelligence projects might have emboldened traders a year ago. 
+
+ Instead, the stock's slump has only deepened.
+
+ The company has revealed very little about its AI efforts, with chief executive officer Tim Cook promising shareholders last week Apple would "break new ground" in AI. Investor impatience is growing, with the stock slumping 12 per cent this year, pulling its market value below Microsoft Corp.'s. 
+
+ "Investors found this thing called generative AI that captured their attention last year and it's taking money away from other tech companies because people want to be in the hottest thing," said Kim Forrest, chief investment officer at Bokeh Capital Partners LLC. "Rightly or wrongly, Apple has to show that it's still relevant in a world where investors want AI."
+
+ Apple's pivot comes as iPhone sales remain sluggish, with sales in China plunging during the first six weeks of this year. Its biggest new product release in years, the Vision Pro headset, is a long way off from contributing to sales growth in any meaningful way. 
+
+ "There's been a real focus on how Apple hasn't come out with some killer product in a very long time," said David Klink, senior analyst of equity research at Huntington National Bank. "Obviously it's been kind of a hard time for Apple holders to watch Nvidia and whatnot." 
+
+ Wall Street is becoming more skeptical of the megacap giant. Apple was recently removed from Goldman Sachs' conviction list and Evercore ISI's tactical outperform list. The company has the lowest ratio of buy ratings to holds and sells since 2020. 
+
+ "Forget the car, what matters most for this stock is the AI strategy launch," Melius Research analysts led by Ben Reitzes wrote in a note this week. 
+
+ While Apple's move away from EVs has been broadly welcomed, analysts are looking for the company to release its own generative AI product. Samsung Electronics Co.'s updated Galaxy line of smartphones can live-translate phone calls, transcribe voice recordings and use generative AI to fill in parts of photos. "Samsung has a generative AI phone right now and is getting a lot of positive buzz about it, and Apple doesn't yet," noted Rhys Williams, chief strategist at Wayve Capital Management. 
+
+ Still, for bulls, the company's potential to capture public imagination with an AI enhancement means that investors should be patient. Melius analysts see new AI services driving users to upgrade their iPhones, kicking off a "supercycle" in 2025. 
+
+ "It's time for a deep breath," wrote Melius's Reitzes, noting that 99 per cent of Apple's installed base of more than 2.2 billion devices "are never going to switch to Android - so a 'comeback' is likely."
+
+ Bloomberg 
+
+Load-Date: March 6, 2024
+
+
+End of Document
+
+
+
+
+
+
+Musk's xAI raises US$ 6 billion in bid to challenge OpenAI
+CE Noticias Financieras English
+May 27, 2024 Monday
+
+
+Copyright 2024 Content Engine, LLC.
+All Rights Reserved
+Copyright 2024 CE Noticias Financieras All Rights Reserved
+Length: 246 words
+Body
+
+
+Elon Musk's Artificial Intelligence (AI) startup, xAI, raised US$6 billion to accelerate its OpenAI challenge.
+The Series B round, announced in a blog post on May 26, comes less than a year after xAI's debut and marks one of the largest investments in the nascent field of AI tool development.
+Musk had been an early supporter of AI, backing OpenAI before he unveiled ChatGPT in late 2022.
+He later withdrew his support for the company and has advocated caution due to the potential dangers of the technology. Last year it was part of a large group of industry leaders urging a pause in AI development.
+Development and investment
+Musk in November launched a rival to OpenAI's ChatGPT, called Grok, which was trained and integrated into X.com, the social network formerly known as Twitter. So far, that has been the most visible product of the work of xAI, led by executives with previous DeepMind experience at Alphabet Inc, Microsoft Corp. and Tesla Inc.
+The company intends to use the funds to bring its first products to market, build advanced infrastructure and accelerate development of future technologies, it says in the blog.
+Its previous valuation was US$18 billion, Musk said in a post on X.
+Big names in venture capital, such as Sequoia Capital and Andreessen Horowitz, backed the fundraising, one of the largest to date in the sector.
+Microsoft Corp. has invested about $13 billion in OpenAI, while Amazon.com Inc. put about $4 billion into Anthropic.
+AI
+Artificial Intelligence
+
+Load-Date: May 29, 2024
+
+
+End of Document
+
+
+
+
+
+
+The Chicago Tribune and more sue OpenAI and Microsoft - The Ticker
+The Ticker: Baruch College
+May 15, 2024 Wednesday
+
+
+University Wire
+Copyright 2024 UWIRE via U-Wire All Rights Reserved
+Section: NEWS; Pg. 1
+Length: 685 words
+Byline: Olivia O'Dvaier
+Body
+
+
+Alden Global Capital, the second-largest newspaper owner in the country, sued OpenAI Inc. and Microsoft Corp. through its subsidiary-owned publications for illegally using news articles to grow and profit from their generative AI models on April 30. 
+In the lawsuit, OpenAI and Microsoft were accused of copyright infringement, unfair competition and tarnishing the newspapers' reputations.
+Alden Global Capital owns The New York Daily News, The Chicago Tribune, The Orlando Sentinel, The Sun Sentinel of Florida, The San Jose Mercury News, The Denver Post, The Orange County Register, The St. Paul Pioneer Press and more. It owns them through subsidiaries of Alden MediaNews Group and Tribune Publishing.
+In the court filings, the publishers claim that the commercial success of OpenAI is built on copyright infringement. The content that the newspapers were publishing was copyrighted and, in some cases, existed behind a paywall that OpenAI bypassed in order to train its algorithm.
+The complaint states that chatbots obtained excerpts from newspaper articles, and sometimes even the whole article,  quoting and showing content originally protected by a paywall on the newspapers' website. In doing so, they reduced the need for people to subscribe to the newspapers to access the content.
+The suit claimed that, since OpenAI and Microsoft paid for the technology required to house their AI models, they should be paying for the data required to develop their algorithms, too.
+"...Defendants contend that they can fuel the creation and operation of these products with the Publishers' content without permission and without paying for the privilege," it said. "They are wrong on both counts, as this lawsuit will prove."
+Local newspapers are already at a high disadvantage, the suit noted, following the development of the internet and the subsequent "siphoning of advertisement revenue." Allowing OpenAI to scrape newspaper data and showing it to chatbot users for free hurts newspapers' abilities to sustain their business, it said.
+OpenAI previously stated that, without copyrighted content, it would be "impossible" to grow its chatbot. Recent investigations from The New York Times - which also sued OpenAI in a separate filing - found that OpenAI went as far as transcribing YouTube videos into text to train ChatGPT after running out of written content by late 2021.
+The lawsuit also outlines the importance of publishers' content in training AI Chatbots. Older OpenAI statements show higher-quality datasets were sampled "more frequently." Alden claimed that publishers' works are more strongly vetted and would be considered higher quality for training the algorithm.
+In December 2023, The Times sued OpenAI and Microsoft for allegedly using copyrighted articles and becoming competition with the paper as a news resource. Microsoft successfully got some parts of this case dismissed.
+In the December 2023 lawsuit, the potential harm to The Times brand comes from AI hallucinations. This happens when AI creates false information and says it comes from the wrong source. For example, Bing Chat said that they used The Times article for "the 15 most heart-healthy foods" article, out of which 12 were not mentioned in the New York Times article.
+OpenAI has existing deals with the Associated Press, which owns Business Insider and Politico,  as well as The Financial Times that allow them to license news content from the publishers to train their AI bots. It is unclear what the terms of those deals with OpenAI are exactly.
+The Times does recognize the benefit of generative AI to the public. In an emailed statement, it said that The Times "recognizes the power and potential of GenAI for the public and for journalism," but believes journalism should not be used for commercial gain without getting journalists paid.
+The argument behind the lawsuit centers around who gets to benefit from the journalistic work of hundreds of writers. Alden newspapers argue that, without the proper payment to journalists for their work, it will be impossible to sustain the production of content that chatbots and people rely on.
+
+Load-Date: May 15, 2024
+
+
+End of Document
+
+
+
+
+
+
+Microsoft mobile-game store to vie with Apple, Google
+The Columbian (Vancouver, Washington)
+May 11, 2024 Saturday
+
+
+Copyright 2024 The Columbian Publishing Co. All Rights Reserved
+Section: REGIONAL; Pg. C2
+Length: 310 words
+Byline: Cecilia D'Anastasio and Dina Bass Bloomberg News
+Highlight: Microsoft Corp. will launch its own online store for mobile-game consumables in July, creating an alternative to Apple Inc. and Google's app stores and their fees.
+The browser-based store will debut with Microsoft's own games, offering discounts on in-game items associated with titles like Candy Crush Saga. Xbox President Sarah Bond announced the move Thursday at the Bloomberg Technology Summit. Later, Microsoft will open the store to other publishers.
+Body
+
+
+Microsoft Corp. will launch its own online store for mobile-game consumables in July, creating an alternative to Apple Inc. and Google's app stores and their fees.
+The browser-based store will debut with Microsoft's own games, offering discounts on in-game items associated with titles like Candy Crush Saga. Xbox President Sarah Bond announced the move Thursday at the Bloomberg Technology Summit. Later, Microsoft will open the store to other publishers.
+Bond says the store is launching on the web, versus an app, so it's "accessible across all devices, all countries, no matter what, independent of the policies of closed ecosystem stores."
+Microsoft saw an opportunity to create a store that "goes truly across devices - where who you are, your library, your identity, your rewards travel with you versus being locked to a single ecosystem," Bond said. The company's intention is to facilitate gaming across consoles, computers and mobile devices. Microsoft's blockbuster cross-platform game Minecraft may be an early addition to the web store, Bond said.
+"This web-based store is the first step in our journey to building a trusted app store with its roots in gaming," an Xbox spokesperson said in an email.
+Apple and Google dominate the app stores where game developers release titles, charging an approximate 30 percent fee on sales.
+In late 2023, Microsoft gaming head Phil Spencer shared that the company is in talks with partners to launch its own Xbox app store.
+The European Union's Digital Markets Act, which went into effect this year, freed tech companies to start their own direct-to-consumer web stores and avoid Apple and Google's fees. In early May, some TikTok users reported seeing links to a TikTok web store, where they could purchase TikTok coins at a discount.  The following fields overflowed: REFERENCE = 05-11 C2 MICROSOFT-MOBILE-STOREBLO_C02
+
+Load-Date: June 3, 2024
+
+
+End of Document
+
+
+
+
+
+
+Seoul shares open lower ahead of Fed rate decision, earnings
+ 
+ASEAN Tribune
+July 30, 2024 Tuesday
+
+
+Copyright 2024 ASEAN Tribune All Rights Reserved
+
+
+Length: 214 words
+Body
+
+
+ 30 Jul 2024 (Yonhap News Agency) Seoul shares opened lower Tuesday, following a mixed close on Wall Street, as investors await the Federal Reserve's rate decision and earnings from major tech firms.
+The benchmark Korea Composite Stock Price Index (KOSPI) fell 19.99 points, or 0.72 percent, to 2,745.54 in the first 15 minutes of trading.
+Overnight, the Dow Jones Industrial Average fell 0.1 percent to 40,539.93 points, but the tech-heavy Nasdaq rose 0.07 percent to 17,370.20.
+This week, all eyes are on the Fed's policy decision and earnings results of big tech firms, such as Apple Inc., Amazon.com Inc., Microsoft Corp. and Samsung Electronics Co.
+The U.S. central bank is widely expected to cut rates within months.
+In Seoul, most large-cap stocks declined.
+Market behemoth Samsung Electronics Co. fell 0.9 percent, No. 2 chipmaker SK hynix Inc. declined 2.7 percent, top carmaker Hyundai Motor Co. shed 0.6 percent, and leading auto parts maker Hyundai Mobis Co. was down 0.9 percent.
+Among gainers, leading shipping firm HMM rose 1.1 percent, leading battery maker LG Energy Solution Ltd. climbed 0.8 percent, and leading refiner SK Innovation Co. was up 1 percent.
+The local currency was trading at 1,384.40 won against the U.S. dollar, down 2.5 won from the previous session's close.
+
+Load-Date: July 31, 2024
+
+
+End of Document
+
+
+
+
+
+
+Microsoft reports outage of Office applications and services
+The Peninsula
+July 30, 2024 Tuesday
+
+
+Copyright 2024 Dar Al Sharq Press, Printing & Distribution Provided by Syndigate Media Inc. All Rights Reserved
+
+
+Length: 618 words
+Byline: The Peninsula Newspaper
+Body
+
+
+Microsoft Corp. said it's investigating outages of some Office applications and services.
+The issue is impacting "multiple Microsoft 365 services and features," the company said in a post on social network X on Tuesday morning.
+Microsoft 365 includes common productivity applications like Outlook, Word and Excel.
+Earlier this month, some 8 million computers running on the Windows operating system crashed after the cybersecurity firm CrowdStrike Holdings Inc. released a flawed software update.
+Microsoft has also been grappling with the fallout from a series of cyberattacks that prompted the US government to issue a scathing report calling for company-wide changes.
+Microsoft needs to show Azure strength to stem great rotation
+After a $2.3-trillion Nasdaq 100 wipeout, investors are nervously awaiting Microsoft Corp.'s earnings report to see whether the software maker can turn the tide.
+Traders are increasingly concerned that tech firms aren't yet seeing returns from heavy investments in artificial intelligence. Shares in Alphabet Inc. slid last week after the Google parent reported higher-than-expected spending, adding to a broader selloff for Big Tech. That's raised the bar for Microsoft, which is trading at a fairly hefty valuation of about 32 times projected profits and needs to show AI-related spending is translating into sales growth for its Azure cloud business.
+"Microsoft has to beat in a big way and they've got to show Gen AI monetization," said Ted Mortonson, managing director at Robert W. Baird, adding that last week's rout has ramped up the pressure on Tuesday's results. Microsoft is "the most over-owned name globally, next to Nvidia. So those two really have to put up some good numbers. And you're going to have to see Azure accelerate above the Street to make it work."
+Before the recent sector selloff, Microsoft stock had gained about 24% this year, while options data is now indicating an implied one-day move - in either direction - of about 4.6%. Shares in the company fluctuated in early trading on Tuesday.
+The report will kick off a critical week for the sector. The rotation out of megacaps has dragged the Nasdaq 100 Index down almost 8% from its high about three weeks ago. Microsoft will set the scene for reports from Meta Platforms Inc., Apple Inc. and Amazon.com Inc. later in the week, while investors are also awaiting a Federal Reserve interest-rate decision on Wednesday.
+The key number in Microsoft's report is sales growth in the Azure unit. Wall Street is expecting to see 30% year-over-year growth for the segment in the fiscal fourth quarter, a Bloomberg-compiled consensus shows. Investors also want to see a higher contribution to Azure from AI than the 7% figure reported last quarter.
+A good performance on those metrics would help Microsoft show its path toward monetizing spending on AI better than some rivals. The software company has had an early lead in releasing generative AI products, with its investment in ChatGPT-owner OpenAI and its fledging Microsoft 365 Copilot - an AI assistant for Office programs - fueling demand for Azure.
+"Microsoft has first mover advantage from its investment in OpenAI," said Zehrid Osmani, a Martin Currie fund manager. "It also has the most natural cross sell opportunity from AI by offering Copilot for $30 per month to its 400 million-plus paying users of Microsoft 365."
+Investors will also be closely watching capital expenditures. Last quarter, Microsoft's spending was almost $11 billion excluding leases, and management said that capex will rise next year. Demand for AI services is running ahead of the data center capacity Microsoft has available to provide them, requiring an increase in data center outlay.
+
+Load-Date: July 30, 2024
+
+
+End of Document
+
+
+
+
+
+
+Reports Claim Hackers Breached OpenAI In 2023
+News Chronicle (Nigeria)
+July 6, 2024 Saturday
+
+
+Copyright 2024 The News Chronicle. Provided by Syndigate Media Inc. All Rights Reserved
+
+
+Length: 220 words
+Body
+
+
+A report has claimed that in 2023, OpenAI, supported by Microsoft Corp, faced a security breach where a hacker gained unauthorized access to internal messaging systems.\xa0
+The breach specifically targeted online forums used by employees, resulting in the theft of proprietary details concerning OpenAI's artificial intelligence technologies.
+Notably, the incident did not compromise the systems responsible for housing and developing ChatGPT and other AI models.
+Although OpenAI executives were aware of the breach, they assessed it as not constituting a national security threat, believing the hacker to be an individual without ties to any foreign government.
+Consequently, the company chose not to publicly disclose the breach, citing the absence of compromised customer or partner information.
+In other developments, OpenAI recently thwarted five covert influence operations in May that aimed to misuse its AI models for deceptive online activities.
+Meanwhile, the Biden administration announced plans to introduce safeguards around advanced AI technologies, including those developed by OpenAI, to shield U.S AI capabilities from foreign threats.
+Additionally, sixteen leading AI firms have committed to advancing AI technology responsibly amidst ongoing regulatory efforts to manage innovation and mitigate associated risks.
+
+Load-Date: July 6, 2024
+
+
+End of Document
+
+
+
+
+
+
+Seoul shares sharply down late Tue. morning ahead of Fed meeting
+ 
+ASEAN Tribune
+July 30, 2024 Tuesday
+
+
+Copyright 2024 ASEAN Tribune All Rights Reserved
+
+
+Length: 235 words
+Body
+
+
+ 30 Jul 2024 (Yonhap News Agency) Seoul shares extended losses late Tuesday morning as investors await the U.S. Federal Reserve's rate decision and earnings from major tech firms this week.
+The benchmark Korea Composite Stock Price Index (KOSPI) fell 28.92 points, or 1.05 percent, to 2,736.61 as of 11:20 a.m.
+Overnight, the Dow Jones Industrial Average fell 0.1 percent to 40,539.93 points, but the tech-heavy Nasdaq rose 0.07 percent to 17,370.20.
+Institutions and foreigners sold a combined 574.79 billion won (US$415 million) worth of stocks, offsetting individuals' stock buying valued at 562.97 billion won.
+This week, all eyes are on the Fed's policy decision and earnings results of big tech firms, such as Apple Inc., Amazon.com Inc., Microsoft Corp. and Samsung Electronics Co.
+The U.S. central bank is widely expected to cut rates within months.
+In Seoul, most large-cap stocks declined.
+Market behemoth Samsung Electronics Co. fell 1.5 percent, No. 2 chipmaker SK hynix Inc. declined 4.1 percent, top carmaker Hyundai Motor Co. shed 0.6 percent, and leading auto parts maker Hyundai Mobis Co. was down 2 percent.
+Among gainers, leading shipping firm HMM rose 2.6 percent, leading battery maker LG Energy Solution Ltd. climbed 2.4 percent, and leading refiner SK Innovation Co. was up 0.2 percent.
+The local currency was trading at 1,385.45 won against the U.S. dollar, down 3.55 won from the previous session.
+
+Load-Date: July 31, 2024
+
+
+End of Document
+
+
+
+
+
+
+Microsoft Global Outage: Netizen celebrates 'blue screen day'; says 'guys at work having a field day'
+MINT
+July 19, 2024 Friday
+
+
+Copyright 2024 HT Media Ltd. All Rights Reserved
+
+
+Length: 248 words
+Dateline: New Delhi 
+Body
+
+
+New Delhi, July 19 -- On Friday, July 19, a wave of technical malfunctions disrupted operations at airlines, banks, and the London Stock Exchange, spanning from the United States to Asia. The widespread disruptions followed an outage reported by Microsoft Corp., affecting its online services. The outage caused a stir online, leading to netizens' reaction.
+Among the notable companies affected were McDonald's Corp., United Airlines Holdings Inc., and the LSE Group. These firms experienced significant issues with customer service communications. They were part of a broader range of corporations, extending from Japan to India and the US, that reported operational glitches. The cause of these disruptions remains unclear
+Major U.S. carriers, including American Airlines (AAL.O), opened a new tab, Delta Airlines (DAL.N), opened a new tab and United Airlines issued ground stops on Friday morning, citing communication issues, less than an hour after Microsoft resolved its cloud services outage that impacted several low-cost carriers.
+It was not immediately clear whether the call to keep flights from taking off were related to the earlier Microsoft (MSFT.O), opens new tab cloud outage. Apart from American and Delta, UAL and Allegiant Air too grounded flights.
+Here's how netizens reacted:
+Published by HT Digital Content Services with permission from MINT. For any query with respect to this article or any other content requirement, please contact Editor at contentservices@htdigital.in
+
+Load-Date: July 19, 2024
+
+
+End of Document
+
+
+
+
+
+
+New York Times vs OpenAI: Is there a case for copyright?; As this lawsuit weaves its way through the court, more such challenges for the law are likely to emerge
+Indian Express
+April 6, 2024 Saturday
+
+
+Copyright 2024 Indian Express, distributed by Contify.com All Rights Reserved
+
+
+Length: 1028 words
+Byline: Menaka Guruswamy
+Body
+
+
+As this lawsuit weaves its way through the court, more such challenges for the law are likely to emerge
+Artificial intelligence (AI) is reconfiguring our lives and forcing us to question whether only human beings are capable of sophisticated intelligence? After all, AI is passing lawyers' bar exams and other professional tests. It's even performing precise but finite surgical procedures. However, there are some fetters in the AI revolution. And this has come from an unlikely quarter - copyright law. Novelists, newspapers, writers are amongst plaintiffs who have sued various companies using AI alleging that AI "ingests" their work. These plaintiffs from various suits include the popular author John Grisham and The New York Times.
+The New York Times (NYT) in a very high-profile case, in late December 2023 sued OpenAI and Microsoft for copyright infringement. In their petition, the NYT alleges that the "defendants' generative artificial intelligence (GenAI) tools rely on large-language models ('LLMs') that were built by copying and using millions of Times copyrighted news articles, in depth investigations, opinion pieces, reviews, how-to-guides, and more. While the defendants engaged in wide-scale copying from many sources, they gave Times content particular emphasis when building their LLMs - revealing a preference that recognises the values of those works."
+The NYT in these absolutely delightful pleadings, argues that the Constitution and the Copyright Act recognise the "critical importance of giving creators exclusive rights over their works". The newspaper felt strongly that their copyright was violated by OpenAI and Microsoft and hence they were unable to enjoy the "fruits of their labour and investment." How does the NYT explain this alleged exploitation of their labour? They argue that "powered by LLMs containing copies of Times content, Defendants Gen AI tools can generate output that recites Times content verbatim, closely summarises it, and mimics its expressive style", as demonstrated by scores of examples. "Defendants also use Microsoft's Bing search index, which copies and categorises the Times articles that are significantly longer and more detailed than those returned by traditional search engines."
+Essentially, the NYT is arguing that the defendants are using its intellectual property without paying for it and enriching themselves. The NYT links this use of its intellectual property protected work to the growth in Microsoft's valuation to a trillion dollars, and OpenAI's ChatGPT's valuation of $90 billion.
+In a bid to address the argument of "fair use" that is often a defence against copyright infringement, the NYT argued that there was nothing transformative about using NYT content without payment to create products that substitute for the newspaper and steal audiences away from it. The core argument of the NYT is that the outputs of "Defendants' GenAI models compete with and closely mimic the inputs used to train them" copying NYT works and hence is not fair use.
+The NYT's petition includes extracts from searches conducted on ChatGPT, and Bing Chat (Microsofts' GenerativeAI) that are alleged to throw up NYT articles verbatim.
+Importantly, the petition for the NYT, while arguing that it has lost billions of dollars, does not ask for a specific amount for damages. It does ask for an injunction to stop the alleged unlawful conduct from continuing.
+The reply of OpenAI is clever. In fact, the legal petitions filed by the three parties are rigorous and deeply enjoyable reading. For students of law (by that I mean those in law school and those practising law) the petitions are worthwhile to review for they are indicative of what good legal drafting ought to be. Succinct, clever and elegantly incorporating the law.
+However, the case of The New York Times Co v Microsoft Corp et al is also fascinating since it has all the attributes of an international caper. How, you might ask? OpenAI responds to the allegations by arguing that "the Times paid someone to hack OpenAI's products." Further, that it took the newspaper ten of thousands of attempts to generate the "highly anomalous results" that constitute the illustrations in the complaint. Further, that they were able to do so only "by targeting and exploiting a bug by using deceptive prompts that blatantly violate OpenAI's terms of use. And even then they had to feed the tool portions of the very articles they sought to elicit verbatim passages of, virtually all of which already appear on multiple public websites."
+Microsoft responded strongly by comparing the New York Times lawsuit to the one waged by the Motion Picture Association of America and Hollywood against the VCR (Video Cassette Recorder). When the VCR was first introduced, the entertainment industry claimed that it violated copyright. As Microsoft writes, the "(US Supreme) Court rejected the alarmism and voted for technological innovation and consumer choice, in its seminal decision in Sony Corp of America vs Universal City Studios, Inc. freeing consumers from broadcast schedules and ushering in an on-demand world." Clearly, that decision did not destroy Hollywood - quite the opposite, it's argued that the entertainment industry flourished "when the VCR opened new markets and revenue streams".
+News conglomerates have not all chosen to fight the use of their work product to feed the insatiable appetite of AI. Some have joined hands with it. The large European news conglomerate Axel Springer has announced a partnership with OpenAI to "strengthen independent journalism in the age of AI". In July 2023 OpenAI and the Associated Press (AP) announced a deal for the AI company to license AP's archive of news stories.
+As The New York Times Co v Microsoft Corp et al weaves its way through the court system, more such challenges for the law will emerge as AI swiftly takes over how humans access, process and pay for news and creative work. Alternatively, we can ask ChatGPT - "are you using New York Times stories and reports without paying for it?" I suspect we will get a legally nuanced answer involving "fair use".
+The writer is a Senior Advocate at the Supreme Court
+
+Load-Date: April 6, 2024
+
+
+End of Document

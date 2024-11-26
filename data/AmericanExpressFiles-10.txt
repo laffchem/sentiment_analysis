@@ -1,0 +1,566 @@
+
+User Name: = 
+Date and Time: = 2024-11-25
+Job Number: = 239401120
+
+Documents (10)
+Client/Matter: -None-
+Search Terms: American Express Co and publication-type(Newspapers)
+Search Type: Boolean
+Content Type|Narrowed by|
+news|Language: English Timeline: Jan 01, 2024 to Jul 31, 2024 Geography News: North America Subject: Business News |
+
+1. American Express Business Credit Card Debuts in Nigeria
+
+2. Questions remain in Discover acquisition
+
+3. Congress should restore market-driven debit-interchange pricing
+
+4. Corona ad featuring Bad Bunny received $800K grant in P.R. but was filmed partly in Los Angeles
+
+5. What to know about Capital One 's $35B Discover takeover
+
+6. Berkshire after Warren Buffett; Investing; Are the oracle's shoes simply too big for another stock picker to fill?
+
+7. Posthaste: The 'great horizontal wealth transfer' is coming - and it could change a lot
+
+8. Live news: Canada, U.K. blame each other as trade talks fall apart
+
+9. Posthaste: Canadians boosting down payments with family money to enter housing market
+
+10. Posthaste: The coming recession will be a tale of housing versus commodities
+
+
+
+
+
+
+
+
+American Express Business Credit Card Debuts in Nigeria
+This Day
+May 10, 2024 Friday
+
+
+Copyright 2024 THISDAY NEWSPAPERS LTD. Provided by Syndigate Media Inc. All Rights Reserved
+
+
+Length: 372 words
+Body
+
+
+Nume Ekeghe with agency report
+American Express Co. has entered the Nigerian market with its inaugural business credit card, marking a significant collaboration with local neobank O3 Capital.
+This partnership holds the potential to bolster dollar accessibility for businesses operating in Nigeria, a move that could significantly impact the West African country's financial landscape.
+According to Bloomberg, the newly launched card, unveiled on Thursday in Lagos, Nigeria's commercial hub, provides businesses with a spending limit of $10,000 and offers a repayment period of up to 45 days for international transactions.
+Additionally, other O3 Capital-Amex cards, tailored for personal and household use, will feature spending limits ranging from $10,000 to $20,000.
+President of Global Network Services at American Express, Mohammed Badi, expressed the company's excitement regarding its expansion into Nigeria and the broader African market. This move signifies American Express's commitment to extending its reach and services to businesses across the continent
+Badi said in a statement, "The first-ever American Express Business Card in the most populous African country will give us another way to support local businesses with their growth aspirations. American Express is excited to continue to strengthen its presence in Nigeria and expand its reach across Africa."
+American Express said the partnership aimed to address challenges posed by Nigeria's persistent dollar scarcity, which had contributed to significant volatility of the naira.
+Since foreign exchange reforms in mid-2023, the naira has lost 65 per cent of its value against the U.S. dollar.
+Central Bank of Nigeria (CBN) encourages banks to source dollars independently to alleviate demand pressures, yet accessing dollars remains difficult. Consequently, most Nigerian banks have limited or halted the use of naira-denominated credit cards for international transactions, offering such services primarily to affluent clients.
+O3 Capital CEO, Abimbola Pinheiro, highlighted the advantages of the new card, stating, "The O3 Amex card solves the problem of queuing at banks for business travel allowance and personal travel allowance."
+ Copyright 2022 THISDAY NEWSPAPERS LTD.  
+
+Load-Date: May 10, 2024
+
+
+End of Document
+
+
+
+
+
+
+Questions remain in Discover acquisition
+Tribune-Review (Greensburg, PA)
+February 20, 2024 Tuesday
+
+
+Copyright 2024 Tribune Review Publishing Company All Rights Reserved
+Section: Tribune-Review Westmoreland
+Length: 285 words
+Byline: Bloomberg News
+Body
+
+
+Capital One Financial Corp., the U.S. lender backed by Warren Buffett, is set to buy Discover Financial Services in a $35 billion deal that will bring together two of the biggest credit card firms and allow them to compete with other Wall Street behemoths. 
+Here are some takeaways on the pending merger: 
+What will the sale mean? 
+The tie-up is set to shake up the credit card landscape in the U.S., and the acquisition marks one of the industry's biggest deals since the 2008 financial crisis. 
+Discover is the smallest of the four U.S.-based payment networks, which also include Visa Inc., American Express Co. and Mastercard Inc. Capital One historically has had to partner with Visa and Mastercard to issue its cards. With Discover, it could cut both of those payment giants out of the mix. 
+Will I get a  new credit card? 
+That's not entirely clear. The deal should allow Capital One to rely on its own network for at least some of its credit cards, having historically relied on Visa and Mastercard for that service. But the companies haven't said yet if they'll keep all their existing products or choose to roll out new cards. 
+Will regulators  approve the sale? 
+The deal is pending regulatory approval that's expected in late 2024 or early 2025. Given the size of the deal, Bloomberg Intelligence expects "significant regulatory scrutiny." Joe Biden's administration also is becoming tougher on promoting competition in the sector. 
+But analysts largely believe this will create more competition for Visa and Mastercard. That could help Capital One and Discover grease the wheels with regulators and gain approval for the deal because antitrust regulators have long had those payment giants in their crosshairs. 
+
+Load-Date: February 22, 2024
+
+
+End of Document
+
+
+
+
+
+
+Congress should restore market-driven debit-interchange pricing
+americanbanker.com
+July 9, 2024 Tuesday
+
+
+Copyright 2024 SourceMedia LLC d/b/a Arizent All Rights Reserved
+
+
+Section: Vol. 1; No. 1
+Length: 879 words
+Byline: Eric Grover
+Body
+
+
+Debit network price controls have been in effect since 2011 and credit network price controls may soon be introduced by the settlement of a longstanding lawsuit. Republican Sens. Ted Budd, Thom Tillis, Steve Daines, Bill Hagerty and Katie Brittlast month introducedthe Secure Payments Act, which would temporarily pause the Fed's proposed 28% reduction in thedebit-interchangeprice cap. They're engaging in political theater rather than seriously trying to put an end to harmful payment-card-network price controls.
+Interchange feesare used by two-sided payment networks like Mastercard and Visa to balance participation on both sides of the network to maximize total value. They fund cardholder rewards and benefits, free bank accounts and card issuer innovation and are the principal revenue source for many fintechs and neobanks. They enable greater financial inclusion and incentivize electronic payments over cash.
+Interchange prices set by statute, regulatory diktat or lawsuit settlements cannot match the market's massive, distributed intelligence. Prices freely set in competitive markets dynamically allocate resources to optimize holistic value.
+The Secure Payments Act would require the Fed to stay its proposal to slash Congress' debit-interchange price cap until it completes a study of the cut's effects on consumer costs and the wider economy and considers the results. The senators have lost sight of the fact that Congress, not the Fed, makes policy. In the Dodd-Frank Act's Durbin Amendment, Congress instructed the Fed to establish an interchange ceiling permitting debit issuers to recover fraud-prevention and incremental processing costs. Issuers' processing costs have fallen roughly 50% since the cap was implemented in 2011, so the Fed's proposed cut is, if anything, generous to banks.
+The senators note that since debit-interchange price caps took effect the number of banks offering free demand deposit accounts without conditions declined and fees increased. Price controls cause shortages.
+In a similar half-hearted vein, the House Financial Services Committee, in May, voted 24-22 on party lines to advance the Bank Resilience and Regulatory Improvement Act. It would raise the threshold of bank issuers exempt from debit-interchange price caps from $10 to $50 billion. Congress knew its price controls were harmful, which is why it exempted government cards, politically sympathetic community banks and general-purpose-reloadable prepaid cards used by the underserved.
+Capitol Hill isn't the only battleground. The landmark $30 billion settlement of the longstanding consolidated antitrust suit against Mastercard and Visa over credit-card interchange fees and acceptance rules would have reduced interchange fees by at least seven basis points for five years. However, on June 25, a federal judge rejected it.
+If Mastercard and Visa sweeten their settlement offer, they'll be negotiating with themselves.
+The payments industry has been using Muhammad Ali's rope-a-dope strategy, hoping its implacable foes would punch themselves out. However, unlike the epic 1974 boxing match in Zaire, where heavyweight champion George Foreman exhausted himself and lost the belt, the merchant lobby and anti-market activists aren't going to tire of pummeling the payments industry.
+The overwhelming majority of Americans have and take for granted the enormous utility of their debit and reward credit cards. They're unaware they're at risk.
+Card rewards, benefits and innovation are under political, regulatory and legal assault. For decades, the payments networks have played defense, and lost ground. For their customers and shareholders, it's high time they go on offense.
+Mastercard and Visa should make an aggressive, affirmative case in the public and political arena for the payment ecosystem's holistic value. They would do well to draw on the Supreme Court's "Ohio et al. vs. American Express Co. et al." decision from June 25, 2018, penned by Justice Clarence Thomas, which found that American Express' anti-steering rules don't violate antitrust law.
+Credit-card interchange and network fee critics focus on merchant payment acceptance costs - one step in the value chain. The decision recognized that Amex - like Mastercard and Visa - operates a two-sided platform, that its fees and rules are used to balance participation on both sides, and, thereby, maximize value for the entire network of cardholders and merchants. The court affirmed that Amex "uses higher merchant fees to offer its cardholders a more robust rewards program, which is necessary to maintain cardholder loyalty and encourage the level of spending that makes it valuable to merchants."
+Congress' feeble proposals to exempt more banks from its punitive debit price controls and delay the Fed's cutting them don't go far enough. Congress should ban payment-network price controls. Such a bill might be dubbed the "Protect Credit Card Rewards and Free Banking Act." It would be a watershed, ending debit-interchange price controls and credit-interchange caps imposed by lawsuits, and a boon for cardholders, banks and fintechs, and, notwithstanding their whinging, merchants.
+It's best to let competing payment networks set prices to maximize value. Only Congress can restore market pricing.
+
+https://www.americanbanker.com/opinion/congress-should-restore-market-driven-debit-interchange-pricing
+
+Load-Date: July 12, 2024
+
+
+End of Document
+
+
+
+
+
+
+Corona ad featuring Bad Bunny received $800K grant in P.R. but was filmed partly in Los Angeles
+CE Noticias Financieras English
+February 5, 2024 Monday
+
+
+Copyright 2024 Content Engine, LLC.
+All Rights Reserved
+Copyright 2024 CE Noticias Financieras All Rights Reserved
+Length: 558 words
+Body
+
+
+Tax credits granted by the Puerto Rico government - and 38 states - for film and television productions are most often benefiting large commercial companies that use the benefit to produce commercials.
+In a report published Monday, Bloomberg Tax examines the trend that adds up to hundreds of millions of dollars in subsidies for companies such as McDonald's Corp, Kellanova (formerly Kellogg Co.), AbbVie Inc. and Constellation Brands Inc, the parent company of Corona beer.
+In fact, the publication highlights a Corona beer commercial starring Bad Bunny and Snoop Dogg as part of the "Finest Life" campaign.
+The Puerto Rico government contributed nearly $800,000 in subsidies for the production of the ad, after Bitten LLC, a local media production consulting firm, assured the Puerto Rico Film Commission that the production would generate 46 local jobs and book 120 hotel nights.
+But the work in Puerto Rico, Bloomberg Tax reports, focused mainly on capturing landscapes and background shots. The Bad Bunny and Snoop Dogg filming was done at a studio in Los Angeles, and the TV video component was directed through Zoom, according to people who worked on the campaign.
+"These are resources being diverted to something that doesn't need to be subsidized," JC Bradbury, an economics professor at Kennesaw State University in Georgia, who has researched film incentives that in that state are increasingly used for commercials, told the trade publication. "It's purely unjustifiable on any kind of economic ground, and it's a horrible policy."
+For the Corona commercial, the production reported $2 million in resident spending and nonresident spending of $47,000, according to data provided by the Film Commission. Bitten LLC said local talent was used for technical roles such as grips, electricians, production coordinators and assistants, craft services, set designers, location managers, wardrobe and assistant directors. It is unclear, Bloomberg Tax noted, whether any of the credits were used to pay the salary of Bad Bunny, one of the world's highest paid musical artists, although the program allows up to 40 percent of salaries to be covered by local resources.
+When Bloomberg Tax questioned José Sánchez Acosta, director of the island's Film Commission, he affirmed that not all production has to take place in Puerto Rico to qualify for the tax exemption.
+"Development stages such as scriptwriting and "doctoring," as well as post-production such as editing and distribution, can be done outside of Puerto Rico. In fact, it is quite common," he said. "However, pre-production tasks such as contracting, location scouting, permitting and filming must be done here [in Puerto Rico]."
+The Bitten consulting firm is headed by Nadia Barbarossa, who previously worked at the Puerto Rico Film Commission, precisely overseeing film tax credit applications, as well as audits and certifications. According to the report, since 2020, the company has applied for tax credits on behalf of two Corona commercials, an American Express Co. production and "Black Panther: Wakanda Forever." Barbarossa said she was unavailable for an interview with the trade media and could not respond to a dozen emailed questions because she was not authorized.
+Constellation Brands Inc, Corona's parent company, did not respond to several requests for comment from Bloomberg Tax.
+
+Load-Date: February 6, 2024
+
+
+End of Document
+
+
+
+
+
+
+What to know about Capital One's $35B Discover takeover
+The Columbian (Vancouver, Washington)
+February 24, 2024 Saturday
+
+
+Copyright 2024 The Columbian Publishing Co. All Rights Reserved
+Section: BUSINESS; Pg. A9
+Length: 705 words
+Byline: Aisha S Gani Bloomberg News
+Highlight: Rogelio V. Solis/Associated Press
+A Discover card is used to pay for gasoline July 1, 2021, at a Sam's Club in Madison, Miss. Capital One Financial is buying Discover Financial Services for $35 billion, in a deal that would bring together two of the nation's biggest lenders and credit card issuers.
+Body
+
+
+Tie-up set to shake up the credit card landscape in U.S.
+Capital One Financial Corp., the U.S. lender backed by Warren Buffett, is set to buy Discover Financial Services in a $35 billion deal that will bring together two of the biggest credit card firms and allow them to compete with other Wall Street behemoths.
+Here's all you need to know about Capital One's acquisition and what it could mean for consumers:
+  
+          n
+           Why does Capital One want to buy Discover?
+The deal brings together two storied consumer-finance brands, a combination that will surpass rivals JPMorgan Chase & Co. and Citigroup Inc. by U.S. credit-card loan volume. It will also give Capital One a foothold in the world of payment networks.
+Capital One's Chief Executive Officer Richard Fairbank, said the acquisition is a "singular opportunity" to bring together two companies that can compete with the largest payment networks.
+The takeover also marks an opportunity for Discover. In January, the company posted a 62 percent drop in fourth-quarter profit as it grappled with the fallout from compliance and risk-management lapses that led to the resignation of its CEO last year.
+Bloomberg Intelligence's Ben Elliott called the timing of the deal "opportunistic, given Discover's legal overhang and weak 2024 outlook."
+  
+          n
+          What will the sale mean?
+The tie-up is set to shake up the credit card landscape in the U.S. and the acquisition marks one of the industry's biggest deals since the 2008 financial crisis.
+Discover is the smallest of the four U.S.-based payment networks, which also include Visa Inc., American Express Co. and Mastercard Inc. Capital One has historically had to partner with Visa and Mastercard to issue its cards. With Discover, it could cut both of those payment giants out of the mix.
+  
+          n
+          What has been happening to the companies' share price?
+Shares of Discover slumped last month after the company said its fourth-quarter profit dropped. The stock has gained since then and rose as much as 18 percent in premarket trading on Tuesday after the deal was announced. Capital One fell by about 4 percent. Capital One's offer for Discover represents a 26.6 percent premium to Discover's closing priced on Feb. 16.
+  
+          n
+          Will I get a new credit card?
+That's not entirely clear at the moment. The deal should allow Capital One to rely on its own network for at least some of its credit cards, having historically relied on Visa and Mastercard for that service. But the companies haven't said yet whether they'll keep all their existing products or choose to roll out new cards.
+  
+          n
+          How do Capital One and Discover credit cards differ?
+Both companies offer a variety of credit cards. Discover has mainly cash-back cards, while Capital One offers a range of reward cards.
+Capital One is known for its commercials featuring celebrities like Jennifer Garner and Samuel L. Jackson asking, "What's in your wallet?" The company has historically catered to subprime consumers who carry a balance on their cards each month.
+Last year, it agreed to buy the digital concierge service Velocity Black to better cater to prime customers who don't carry a balance and instead prioritize credit-card points and airlines miles.
+Discover, on the other hand, has long focused on prime customers with better credit ratings that choose to carry a balance - a group known in industry parlance as revolvers - and has shied away from flashy sign-on bonuses and lavish perks used by many of its rivals.
+  
+          n
+          Will regulators approve the sale?
+The deal is pending regulatory approval that's expected in late 2024 or early 2025. Given the size of the deal, Bloomberg Intelligence expects "significant regulatory scrutiny." Joe Biden's administration is also becoming tougher on promoting competition in the sector.
+But analysts largely believe this will create more competition for Visa and Mastercard. That could help Capital One and Discover grease the wheels with regulators and gain approval for the deal because antitrust regulators have long had those payment giants in their crosshairs.  The following fields overflowed: REFERENCE = 02-24 A9 CAPITAL-ONE-DISCOVER-EXPLAI_A09
+
+Load-Date: February 26, 2024
+
+
+End of Document
+
+
+
+
+
+
+Berkshire after Warren Buffett; Investing; Are the oracle's shoes simply too big for another stock picker to fill?
+National Post's Financial Post & FP Investing (Canada)
+May 4, 2024 Saturday
+National Edition
+
+
+Copyright 2024 National Post All Rights Reserved
+Section: FINANCIAL POST; Pg. FP1 
+Length: 2793 words
+Byline: Eric Platt,Eva Xiao and Patrick Mathurin, National Post
+Body
+
+
+Warren Buffett's deputies are trailing both their mentor and the market, according to a Financial Times analysis that examined the performance of the two men set to take over Berkshire Hathaway Inc.'s US$354-billion stock portfolio.
+Berkshire will hold its annual meeting on Saturday without vice-chair Charlie Munger, whose death in November at age 99 has intensified questions over the future of the business when Buffett, 93, is no longer at the helm.
+When the legendary investor eventually steps down, management of Berkshire's huge equity portfolio is expected to be transferred to Ted Weschler, who was hired after twice paying millions of dollars at charity auctions for lunch with Buffett in 2010 and 2011, and Todd Combs, who was recruited in 2010 after writing to Munger, asking to meet him.
+The FT set out to address the biggest questions confronting Berkshire shareholders as they imagine a future without Buffett: How do Weschler and Combs approach investing, are they any good and can they build on his astonishing record? Berkshire is the last great American conglomerate, with hundreds of subsidiaries fused with the backbone of the United States economy. Its freight trains run over more than 32,000 miles of track. Its utilities provide power to 13 million customers and in Government Employees Insurance Co. (GEICO), it owns one of the largest insurers in the country.
+But among the biggest contributors to Berkshire's performance are stakes in a stable of blue-chip companies including Apple Inc., Coca-Cola Co. and American Express Co.
+PLUCKED FROM OBSCURITY Both Combs and Weschler were plucked from relative obscurity to help run this portfolio.
+Combs'background is insurance; the 53-year-old got his start at Progressive Corp. An internship with Blue Ridge Capital LLC, one of the "Tiger Cub" hedge funds, led to a job at Copper Arch Capital LLC before he went on to found his own fund, Castle Point Capital LP, in 2005.
+Weschler, 61, started out as a junior financial analyst at W.R. Grace &; Co. before helping to start the private-equity group Quad-C Management Inc., then launching his own hedge fund in 2000.
+Like Buffett, they have described themselves as voracious readers, picking through newspapers, trade publications and company annual reports. In 2017, Combs said he got into the office at 7 a.m. or 8 a.m. and left 12 hours later, spending the day primarily reading.
+In his previous job, he often spent late nights poring over securitization documents. "So it's the puzzle," he said last year. "It's figuring out the puzzle. That's where I get giddy."
+Weschler has described himself as a reader of "weird stuff" - such as trade publications Furniture Today and Uranium Weekly - in an attempt to gain an edge.
+"One of the great mistakes of investing is people do end up reading the same thing," he said in 2022. "The only way you'll have success in the stock market is if you have a variant perception, something different from the masses."
+The two investment lieutenants also share a similar investing ethos with the man they are due to replace one day: finding good businesses with strong management teams that are trading at attractive prices.
+INVESTING MOATS
+In a new section for Security Analysis, the seminal work by Ben Graham and David Dodd that was republished last year, Combs described how he looks for a moat, a competitive advantage that would be hard for rivals to overcome.
+"Add on characteristics like low capital intensity, pricing power, recurring revenues, staying power and the likelihood of long-term growth, and you have a great business," he added.
+For years after joining Berkshire, the pair would have lunch every Monday with Buffett, often joined by Tracy Britt Cool, another Berkshire alum. They would exchange notes on investments and talk shop. After the pandemic, that shifted. Buffett and Weschler still meet regularly in Omaha, Neb., but Combs began commuting to Berkshire's insurance subsidiary GEICO when he was appointed to run it in 2019.
+Buffett has called the hiring of Combs and Weschler "one of the best decisions" he has made, describing them as both sound and brilliant.
+They have the freedom to own their successes and failures, operating independently of Buffett, who still runs the vast majority of Berkshire's portfolio.
+"They don't have to check with me before they buy or sell anything," he said in 2017. "Sometimes, they will have talked to me about something they are doing. Other times, I will just look at the monthly recap I get and then see what they've bought or sold."
+How Combs and Weschler are performing, and how they invest, is top of mind for shareholders such as Christopher Rossbach, who invests on behalf of the investment management firm J. Stern &; Co. LLP. Rossbach believes it is critical to understand how the pair will "contribute to and take" Buffett's investing legacy forward.
+"Buffett has built an extraordinary track record of investing and he has laid down through his communications clear principles and guidelines that have guided generations of investors," he said. "It is a huge responsibility of how that will be taken forward and it is very important for investors to understand."
+If the pair cannot match what Buffett did, it raises a question about both the company's value and its reason to exist in a world where passive index funds are touted as safer, cheaper and more reliable than active fund managers.
+In their early years at Berkshire, Combs and Weschler racked up some spectacular gains that allowed Buffett to praise them for leaving him "in the dust."
+Investments including MasterCard Inc., Visa Inc. and health-care company DaVita Inc. helped the two managers beat the S&;P 500 in 2012 and 2013.
+BEATING THE S&;P 500
+In the years since, however, their portfolios have more often lagged behind the S&;P 500 and the performance of Buffett himself, who still runs about 90 per cent of Berkshire's investments. It is something the billionaire acknowledged in 2019 when he said Combs and Weschler were a "tiny bit behind" the index.
+"It has been a tough time to beat the S&;P," he said, "but that's the deal we've got with them."
+Buffett has long cared about beating the index. In his 1957 annual letter, he set himself the ambitious goal of beating the Dow Jones industrial average by 10 percentage points a year. Before winding down his investment partnership, he had smashed that target: outperforming the market by 22 percentage points a year. During his career at Berkshire, he has outperformed the S&;P 500 by more than 4.3 million percentage points.
+Since the pandemic, his protégés'record has deteriorated. In both 2021 and 2022, they missed the S&;P 500 by double digits, according to the FT's analysis; last year, they also trailed the index.
+Overall, according to the analysis, which used Morningstar Inc. data, the pair have generated an average total annual return of about 7.8 per cent over the past decade. That falls short of the 12 per cent return of the S&;P 500 and Buffett's own 10.2 per cent gain. They have trailed the index in seven out of 10 years.
+Their portfolios, worth about US$27 billion out of a total of US$354 billion, excluding billions of dollars of pension investments for Berkshire's employees, are up about 113 per cent over the past 10 years. That trails a 165 per cent gain by Buffett over the same period and a 211 per cent total return by the S&;P 500.
+Berkshire declined to put Combs and Weschler up for an interview or confirm which trades they made.
+"I've never felt that it's in the interest of Berkshire shareholders to talk about anything that we do that is successful and that we want to continue to do," Buffett said. "Both Todd and Ted have been invaluable to Berkshire, and our shareholders have profited significantly from their activities."
+The analysis found that Combs and Weschler also hold stocks for a shorter period than Buffett, who has said that he buys a stock typically believing that the "holding period is forever." Buffett acknowledged that early in the pair's tenure, telling a reporter "one of the two is more prone to move around in securities than I would be."
+Since 2010, Buffett has sold his entire holdings in 63 positions, with an average hold time of four years and three months. Combs and Weschler exited 48 stocks, holding for just two years and 10 months.
+It also showed that Buffett ran a more concentrated portfolio, mainly due to Apple's large showing. Combs and Weschler's selection is still focused on about 24 securities at a time, though they range across more sectors of the economy than Buffett's.
+Buffett shunned technology stocks for most of his career, stating he is illequipped to assess their prospects and uncomfortable with their unpredictable cash flows and often brief lifespans so dependent on innovation.
+In 2011, he made an exception for International Business Machines Corp., placing a US$10.9-billion bet on the IT group, which proved to be a failure. Berkshire had sold the stock within seven years, with the IT group's share price lower and seemingly trapped in a cycle of declining revenues.
+APPLE OF HIS EYE But in 2016, Combs or Weschler made an investment in a technology company that counts as Berkshire's greatest stock trade of the past decade: Apple.
+In the years that followed, Buffett waded into the same trade, convinced by the enduring consumer demand for the iPhone. Between them, Berkshire has spent about US$40 billion buying shares of Apple. At the end of last year, those shares were worth roughly US$175 billion - more than a fifth of Berkshire's total valuation - a mammoth sum even after the company has cashed out more than US$16-billion worth of the stock over the years.
+Buffett has said "one of the fellows in the office" - referring to Combs or Weschler - initiated the investment in Apple. Calculating their exact returns is tricky, given Berkshire has traded in and out of the stock over the years, but the FT estimated they had in effect tripled their money on the investment by the end of last year. That includes an investment of about US$1.6 billion, and then realized gains of US$2.5 billion as they sold Apple stock in 2017, 2018 and 2019.
+Apple shares have returned more than 600 per cent since they invested, including annual dividends. Berkshire reported it sold 10 million Apple shares at the end of 2023, although it is unclear whether it was Buffett or one of his deputies who cut their position.
+Berkshire's struggle to match the S&;P 500 in recent years owes a lot to the tech-dominated rally. Without Apple, the portfolio would have undershot the index by much more.
+The pair have also profited from investments in DaVita, the US$12-billion kidney dialysis company where Berkshire owns a 41 per cent stake, a trade executed by Weschler, although over the span of the investment period, it has also underperformed the S&;P 500.
+Combs'picks in the financial services sector have been prescient, with Berkshire generating large gains on credit-card processors Visa and MasterCard. Those mirrored an early Buffett success from the 1960s when he bought into American Express after its shares had halved following a fraud scandal; he tripled his money in just two years.
+But their big bet on the cable industry, including Charter Communications Inc. and Liberty Media Corp., has weighed on their performance more recently as higher interest rates have hammered these highly indebted companies.
+They also may have been behind the disastrous investment in Paramount Global, the entertainment company that owns MTV and CBS. Buffett has not specified who made the US$2.6-billion wager in 2022, and when asked about the trade at last year's annual meeting, he did not take ownership of the bad bet, something he often does.
+The stock has dropped more than 60 per cent since it invested and Berkshire recently started dumping its position at a loss. Combs was rumoured to be behind an investment in Viacom Inc., Paramount's predecessor, back in 2012, and even though the size of the investment would be quite large for one of the two managers, it is not out of the question given they also hold multibillion-dollar stakes in other businesses.
+Continued on next page They were also weighed down by trades that they ultimately sold at a small profit, such as their 2019 bet on luxury home goods retailer RH. The position in the middle of 2021 showed a mammoth paper profit - up roughly 235 per cent - as investors bid up shares of home-decor companies in the midst of the pandemic. But as RH shares deflated, the decision by Combs or Weschler to add to the position and continue to hold on to the stock knocked their returns. They ultimately sold out last year. PERMANENT CAPITAL In a world without Buffett, Combs and Weschler will still benefit from the company's long-honed advantages, including something that hedge funds and private-equity groups have been chasing in recent years: permanent capital.
+The pair will not have to find willing investors to commit to a Berkshire fund, the type of effort that keeps giants such as Blackstone Inc. and Apollo Global Management Inc., on a fundraising hamster wheel.
+Nor will they be pushed to make distributions to shareholders - Berkshire last paid a dividend in 1967 - or bow to a noisy activist investor if there is a long period of underperformance or a sudden shock.
+That, historically, has allowed Buffett to make wagers and hold on to them even when the market turns decidedly against his positions, as it did after the oil embargo of 1973 and in 2008, when the financial crisis roiled markets.
+They will also retain access to unfathomably cheap credit thanks to Berkshire's insurance business, the firepower that makes the company so successful and one of the main reasons investors cite for keeping the conglomerate together.
+Insurance customers pay premiums in a predictable stream of cash, which has to be deployed in liquid securities. Typical investors have to tap an investment bank for a credit line, paying fees to make investments with borrowed money. But so long as Berkshire's insurance subsidiaries are profitable, the cost to tap those premiums for investments can be negligible.
+Berkshire investors note that even if Combs and Weschler fall short of Buffett's record, they are still likely to usurp the returns on corporate and government bonds, the investment of choice for rival insurers. That, shareholders highlight, is a point that is unlikely to be replicated and will give the company a reason for existing long past Buffett's exit.
+But the pair also face a structural disadvantage that Buffett did not have in his early years. Combs and Weschler will become some of the largest money managers on the planet when Buffett departs, with a vast stock portfolio bigger than any of Berkshire's individual operating divisions.
+US$168-BILLION CASH PILE
+Alongside Buffett's chosen successor as chief executive, Greg Abel, they will also decide how a record US$168-billion cash pile is allocated, a sum so vast that the sprawling investment conglomerate could buy up all but a handful of companies.
+It is a level of firepower that is unheard of on Wall Street and Buffett has lamented the dearth of longterm investment opportunities suitable for such large sums of money.
+The biggest fillip could come from a downturn. The era of low interest rates and booming U.S. stocks has been bad news for Berkshire. Some of Buffett's landmark trades have come during crises - such as investments in Goldman Sachs Group Inc. in 2008 - when rivals were unable or unwilling to jump in.
+The company did not get the chance to profit from the coronavirus pandemic, as government intervention prompted a broad market rally and helped reopen capital markets. Investors say a more traditional slowdown may play in Berkshire's favour.
+A single decade may not be enough to judge Combs and Weschler's performance at a company with a history of patient investing. Investors, though, are eager to hear from them.
+"They are probably going to have to do that sit-down with (CNBC anchor) Becky Quick once a year and talk about their investment philosophy just so people get comfortable," Jeff Muscatello, an analyst at Berkshire shareholder Douglass Winthrop Advisors LLP, said. "Buffett has always been generous with his time ... and they'll need to pick up where he (leaves) off."
+But so far, all that Berkshire shareholders have to go on is a partial track record built over the past 13 years. On Saturday, as with every annual meeting since they joined Berkshire, Weschler and Combs are not expected to field questions in Omaha. Instead, they will be watching from one of the front rows as Buffett takes the stage.
+For now, it is still his show.
+Financial Times !@COPYRIGHT=© 2024 Postmedia Network Inc. All rights reserved.
+
+Graphic
+
+ 
+Houston Cofield , Bloomberg Files; Warren Buffett's Berkshire is the last great American conglomerate, with hundreds of subsidiaries fused with the backbone of the U.S. economy.; Nati Harnik , The Associated Press Files;  The death of Berkshire Hathaway vice-chair Charlie Munger, above, at age 99, and Warren Buffett's advancing years, at 93, have put the weight on a new team.; Scott Olson , Getty Images Files;  Among the biggest contributors to Berkshire's performance are stakes in a stable of blue-chip American companies including Coca-Cola Co., Apple Inc. and American Express Co.; 
+
+Load-Date: May 4, 2024
+
+
+End of Document
+
+
+
+
+
+
+Posthaste: The 'great horizontal wealth transfer' is coming - and it could change a lot
+National Post (f/k/a The Financial Post) (Canada)
+July 19, 2024 Friday
+Web Edition
+
+
+Copyright 2024 National Post All Rights Reserved
+Section: NEWS
+Length: 1173 words
+Byline: Pamela Heaven, Pamela Heaven
+Body
+
+
+They call it the great horizontal wealth transfer.
+A huge stockpile of wealth held by baby boomers( https://financialpost.com/tag/baby-boomers/ ) - likely the largest and richest generation since the Second World War - will be passed on in the fairly near future.
+And a big chunk of it will go to women, representing a seismic shift in wealth ownership.( https://financialpost.com/category/personal-finance/high-net-worth/ )
+The latest UBS Global Wealth Report( https://www.ubs.com/global/en/wealth-management/insights/global-wealth-report.html ) estimates US$83 trillion will be passed on over the next 20 to 25 years, with much of it transferred within the next decade.
+"It is often overlooked that before being transferred from one generation to another, wealth is frequently passed on within the same generation between spouses," said the report.
+As male baby boomers die they tend to bequeath their assets to their wives, who are often younger and tend to live longer, the report said.
+UBS, which coined the phrase the "horizontal wealth transfer," estimates that US$9 trillion of that wealth will pass from husbands to wives, before children inherit. The biggest horizontal transfer will happen in the Americas.
+The shift that has flown largely under the radar has the potential to shake up the world of wealth management( https://financialpost.com/tag/wealth-management/ ), investing and philanthropy, experts say.
+Up until now wealth management has been dominated by men, says McKinsey &; Company. Not only are most financial advisers men, their customers making the decisions are far more likely to be men than women.
+"In two-thirds of affluent households in the United States, men are the key financial decision makers. But this is about to change," said its report.( https://www.mckinsey.com/industries/financial-services/our-insights/women-as-the-next-wave-of-growth-in-us-wealth-management )
+McKinsey estimates that by the end of the decade, women in the United States will control most of the baby boomers' "unprecedented" US$30 trillion in assets - a wealth transfer nearly as big as America's yearly gross domestic product.
+In Canada by 2028, women will control $4 trillion in assets, nearly double what they control now, according to RBC Wealth Management.
+Demographics are the big driver in the shift. About 70 per cent of the affluent-household investable assets in the U.S. are controlled by baby boomers, and about two-thirds of these are joint households "(where a female is present but not actively involved in financial decisions)," said McKinsey.
+When men pass their assets to their spouses, the shift to women as the financial decision makers represents a "critical inflection point for the financial-services industry," said the report. Within a year of their spouse's death, 70 per cent of women switch to a new financial institution.
+Along with this demographic shift, younger woman are becoming more "financially savvy." At the turn of the decade, 30 per cent more married women were making financial and investment decisions, according to its research on affluent consumers.
+"After years of playing second fiddle to men, women are poised to take centre stage," said McKinsey.
+Sign up here( https://view.ceros.com/postmedia-network/posthaste-newsletter-signup/p/1 ) to get Posthaste delivered straight to your inbox.
+Financial Post
+Go Canada! Foreigners are snapping up our bonds at a record pace - well, almost.
+Non-residents bought $110 billion of Canadian bonds( https://financialpost.com/tag/bond-market/ ) in the first five months of this year, the second largest tally on record, "only trailing the once-in-a-generation debt issuance binge of 2020," said National Bank of Canada economists Warren Lovely and Taylor Schleich.
+In the 12 months leading up to May, foreigners picked up more Government of Canada bonds than all domestic investors combined, putting the share of foreign ownership near a record at 36 per cent.
+"Of course, exposure to foreign investors is not without risk, but the broader and deeper non-resident interest increasingly on display seems to us a vital source of secondary bond market liquidity," said the economists.
+Today's Data: Canada retail sales for May, industrial product and raw materials prices
+Earnings: American Express Co.
+Financial Post
+Canada's EV transition could cost more than $300 billion by 2040( https://financialpost.com/commodities/energy/electric-vehicles/canada-ev-transition-cost-300-billion-2040 )
+Taxpayer gets burned after blindly relying on CRA's website info( https://financialpost.com/personal-finance/taxpayer-burned-relying-cra-website-info )
+Everything you need to know about the state of alcohol sales in Ontario( https://financialpost.com/news/lcbo-strike-ontario-what-you-need-to-know )
+Gloomy surveys suggest Bank of Canada left rate cuts too late( https://financialpost.com/news/gloomy-surveys-suggest-bank-of-canada-left-rate-cuts-too-late )
+The largest trading partnership in the world is being tested( https://financialpost.com/news/canada-falling-behind-mexico-us-top-trading-partner )
+Small caps are a great diversification tool, relatively liquid compared to a lot of alternative asset classes and the returns from large and small caps tend to be far more similar over the long term than they are now. That leaves the Financial Times' Jennifer Hughes wondering what it will take to lure investors down market this time. Find out more.( https://financialpost.com/financial-times/smaller-companies-investor-attention )
+Are you worried about having enough for retirement? Do you need to adjust your portfolio? Are you wondering how to make ends meet? Drop us a line( aholloway@postmedia.com ) with your contact info and the gist of your problem and we'll try to find some experts to help you out, while writing a Family Finance story about it (we'll keep your name out of it, of course). If you have a simpler question, the crack team at FP Answers, led by Julie Cazzin, can give it a shot.
+McLister on mortgages
+Want to learn more about mortgages? Mortgage strategist Robert McLister's Financial Post column( https://financialpost.com/tag/robert-mclister/ )can help navigate the complex sector, from the latest trends to financing opportunities you won't want to miss. Plus check his mortgage rate page( https://financialpost.com/real-estate/mortgages/mortgage-rates/lowest-mortgage-rates-canada ) for Canada's lowest national mortgage rates, updated daily.
+Today's Posthaste was written by Pamela Heaven( pheaven@postmedia.com ), with additional reporting from Financial Post staff, The Canadian Press and Bloomberg.
+Have a story idea, pitch, embargoed report, or a suggestion for this newsletter? Email us at posthaste@postmedia.com( posthaste@postmedia.com ).
+Bookmark our website and support our journalism: Don't miss the business news you need to know - add financialpost.com( https://financialpost.com/ ) to your bookmarks and sign up for our newsletters here( https://financialpost.com/newsletters/ ). !@COPYRIGHT=© 2024 Postmedia Network Inc. All rights reserved.
+
+Load-Date: July 19, 2024
+
+
+End of Document
+
+
+
+
+
+
+Live news: Canada, U.K. blame each other as trade talks fall apart
+National Post (f/k/a The Financial Post) (Canada)
+January 26, 2024 Friday
+Web Edition
+
+
+Copyright 2024 National Post All Rights Reserved
+Section: NEWS
+Length: 872 words
+Byline: Financial Post Staff, Financial Post Staff
+Body
+
+
+Today's headlines
+Canada trade talks with U.K. break down after two years of negotiations( https://financialpost.com/news/economy/canada-trade-talks-with-uk-break-down )
+Canada wants to be an EV nation, but will consumers come along for the ride?( https://financialpost.com/commodities/energy/electric-vehicles/canada-wants-ev-nation-will-consumers-ride )
+AIMCo expresses interest in buying a stake in Trans Mountain pipeline( https://financialpost.com/commodities/energy/oil-gas/aimco-expresses-interest-trans-mountain-pipeline-stake )
+Real estate industry left playing the waiting game after Bank of Canada hold( https://financialpost.com/real-estate/bank-of-canada-hold-keeps-real-estate-industry-waiting )
+FP Answers: What should an investor look for in a Canadian tech company?( https://financialpost.com/investing/canadian-tech-what-should-investors-look-for )
+Top story Canada, U.K. blame each other as trade talks fall apart
+The United Kingdom( https://financialpost.com/tag/united-kingdom/ ) paused talks to strike a free-trade deal( https://financialpost.com/tag/trade/ ) with Canada, with each side accusing the other of obstructing progress.
+The two countries have been negotiating for almost two years on replacing an interim deal put in place following Britain's departure from the European Union. The breakdown in talks effectively leaves the U.K. at risk of being in a worse position than it was as a member of the bloc when it comes to Canada trade.
+A major sticking point was on agriculture( https://financialpost.com/category/commodities/agriculture/ ). The U.K. was pushing to extend a temporary arrangement - which expired Dec. 31 - allowing exports of British cheese to Canada under low tariffs, similar to those enjoyed by E.U. members. Canada, for its part, had hoped to secure U.K. access for its beef and pork.
+But those do not currently meet British regulatory standards, and Prime Minister Rishi Sunak's administration has come under intense pressure from U.K. farmers not to allow, in particular, hormone-treated beef into the country.
+"We had to take a strong line on this," Minette Batters, president of the National Farmers' Union of England and Wales, told the BBC. "It would lead to a two-tier food market in this country. There is no need to compromise on it."
+Explaining the decision to stall talks, a U.K. government spokesperson said late Jan. 25 Britain will only negotiate trade deals that "deliver" for its people.
+"We remain open to restoring talks with Canada in the future to build a stronger trading relationship that benefits businesses and consumers on both sides of the Atlantic," the spokesperson said in a post published by Susannah Goshko, British High Commissioner to Canada, on X, formerly Twitter.
+The U.K. is Canada's third-largest, single-country trading partner at over $46 billion a year, according to the Canadian government. The U.K. ranks Canada as its 18th-largest trading partner.
+Laura Dhillon Kane and Brian Platt, Bloomberg
+Read the full story here.( https://financialpost.com/news/economy/canada-trade-talks-with-uk-break-down )
+7:30 a.m. Stock markets before the opening bell
+European stocks rose on Friday, lifted by a raft of forecast-beating earnings and expectations that euro-area interest rates will start falling from April.
+The Stoxx 600 index rose 0.9 per cent.
+Contracts on the S&;P 500 and the Nasdaq 100, on the other hand, signalled a halt to six days of dizzying gains that propelled Wall Street stocks to records. Intel Corp. fell more than 11 per cent in premarket trading after a bleak forecast that also pressured technology stocks including Advanced Micro Devices Inc. and Nvidia Corp.
+The S&;P/TSX composite index closed up 0.36 per cent on Thursday.
+- Bloomberg
+What to watch today
+The Department of Finance Canada will publish financial results for November 2023 this morning.
+The 35th Annual Economic Outlook Forum, presented by Scotiabank, takes place in Vancvouer today. The event aims to provide some answers on what businesses in the Greater Vancouver region can expect from the local and national economy in the year ahead. Panellists will include economists, industry experts and political commentators. Keynotes will be presented by Jean-Francois Perrault, chief economist, Scotiabank; Jobs Minister Brenda Bailey and Housing Minister Ravi Kahlon.
+American Express Co. and Colgate-Palmolive Co. will report earnings today.
+How to withdraw strategically from this registered plan( https://financialpost.com/personal-finance/taxes/new-tax-year-new-chance-withdraw-strategically-resp )
+5 simple ways Canada can get inflation down to 2%( https://financialpost.com/news/economy/5-simple-ways-canada-inflation-down-without-raising-rates )
+Need a refresher on yesterday's top headlines? Get caught up here.( https://financialpost.com/news/live-news-top-business-stories-january-25-2024 )
+- Additional reporting by The Canadian Press, Associated Press and Bloomberg
+Bookmark our website and support our journalism: Don't miss the business news you need to know - add financialpost.com( https://financialpost.com/ ) to your bookmarks and sign up for our newsletters here( https://financialpost.com/newsletters/ ). !@COPYRIGHT=© 2024 Postmedia Network Inc. All rights reserved.
+
+Load-Date: January 26, 2024
+
+
+End of Document
+
+
+
+
+
+
+Posthaste: Canadians boosting down payments with family money to enter housing market
+National Post (f/k/a The Financial Post) (Canada)
+April 19, 2024 Friday
+Web Edition
+
+
+Copyright 2024 National Post All Rights Reserved
+Section: NEWS
+Length: 1314 words
+Byline: Noella Ovid, Noella Ovid
+Body
+
+
+A majority of Canadian home buyers are relying on family money to boost their down payments in order to enter the housing market( https://financialpost.com/tag/housing-market/ ) amid high borrowing costs, according to a recent survey by Zolo.
+The 2024 Canada Housing Market Report( https://www.zolo.ca/blog/2024-canada-housing-market-report ), which interviewed 800 Canadians who bought homes in 2023, found that 68 per cent used money from relatives to cover at least part of their down payment. Of those, 48 per cent used money from parents or relatives and 20 per cent used money from an inheritance.
+An increasing number of Canadians are also pursuing co-ownership to pool resources and enter markets they otherwise would not be able to afford. The study found that 35 per cent bought a home with either family (28 per cent) or friends (seven per cent). The rest bought homes with their partners (38 per cent), by themselves (22 per cent) or with others (five per cent).
+Joint-ownership, however, has some risks, cautions mortgage expert Angela Calla. She advises that homebuyers consider the long-term implications before choosing co-ownership, such as what happens if one person wants to sell and the other doesn't, or if one person's romantic situation changes.
+She says it's essential to hire a real estate lawyer( https://financialpost.com/category/real-estate/ ) to know your rights and lay out the steps that will be taken in case of a disagreement. "You need to be able to discuss and document the hard stuff with a lawyer before getting an approval," Calla said in the report.
+More homebuyers are also searching for the best rates, with 34 per cent shopping for a mortgage lender( https://financialpost.com/category/real-estate/mortgages/mortgage-rates/ ) in 2023 compared to just 26 per cent in 2022. Thirty-eight percent are using mortgage brokers to secure the lowest possible interest rate,( https://financialpost.com/tag/interest-rates/ ) making them the fourth-most-used real estate professionals in 2023.
+"Working with a broker can lead to cost savings and better long-term financial outcomes," Calla said. "Date the rate, marry the house. You don't need to complicate it. Time in the market will always outweigh timing the market."
+Homebuyers are also having to compromise on their must-have features in order to afford a home. The most important features to buyers were location (53 per cent), type of home (53 per cent) and square footage (50 per cent).
+Ironically, those were also some of the features that buyers compromised on the most, with size of certain rooms (36 per cent), square footage (34 per cent) and type of home (32 per cent) leading the way.
+"People should not expect their next home to be their dream home, but they could eventually get there through deferral of gratification and making good financial decisions," real estate expert Daniel Foch said in the report.
+Whether the trend of using creative strategies to enter the housing market will continue into 2024 depends on when and if the central bank reduces interest rates, he says. "I think the important theme in 2024 is how long we spend at current interest rates and what happens to the economy that makes the Bank of Canada( https://financialpost.com/tag/bank-of-canada/ ) cut rates," said Foch.
+Sign up here( https://view.ceros.com/postmedia-network/posthaste-newsletter-signup/p/1 ) to get Posthaste delivered straight to your inbox.
+It's a mixed bag for mortgage shoppers this week. Leading nationally advertised fixed rates remain under five per cent for default-insured borrowers. For example, you'll find 4.84 per cent on red-hot three-year terms. If you're rolling without insurance, you're looking at 5.19 per cent, which still doesn't break the bank - relative to the alternatives. On the floating-rate scene, we're seeing shy improvements. Still, variables won't start flying off the shelves until borrowers see proof of Bank of Canada rate cuts. For insured borrowers, however, there's a sweet deal on adjustable-rate mortgages with leading rates at prime minus 1.30 per cent (5.90 per cent). - Robert McLister( https://financialpost.com/real-estate/mortgages/mortgage-rates/u-s-inflation-looms-over-canadian-mortgage-market )
+National Bank of Canada annual shareholders meeting
+Today's data:Construction investment for February
+Earnings: Procter &; Gamble Co., American Express Co., Schlumberger NV
+( https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2022/07/subhead_marketsam.jpeg )
+Financial Post
+'Stunning reversal': Nuclear energy has gone from pariah to saviour and Canada could reap the benefits( https://financialpost.com/feature/nuclear-energy-surge-starts-uranium-golden-age )
+U.S. inflation boogeyman still looms over Canadian mortgage market( https://financialpost.com/real-estate/mortgages/mortgage-rates/u-s-inflation-looms-over-canadian-mortgage-market )
+'Don't drag your feet': Some cottage owners face big decision after budget's tax change( https://financialpost.com/real-estate/cottage-owners-face-big-decision-capital-gains-tax )
+Gold prices keep smashing records giving miners hope they can escape the doldrums( https://financialpost.com/commodities/mining/gold-price-records-give-miners-hope )
+U.S. inflation boogeyman still looms over mortgage market( https://financialpost.com/real-estate/mortgages/mortgage-rates/u-s-inflation-looms-over-canadian-mortgage-market )
+Some cottage owners face big decision after tax change( https://financialpost.com/real-estate/cottage-owners-face-big-decision-capital-gains-tax )
+Housing strategy could inflict short-term pain: industry watchers( https://financialpost.com/real-estate/canada-budget-2024-housing-strategy-could-inflict-short-term-pain )
+All that glitters isn't gold when it comes to quick fixes for our money. A lot of people turn to what they believe will be a quick fix when attempting to improve their credit, but when it has taken months or years to get to the point they're at, it will take months or years to get back on track. A so-called quick fix can even prolong the time it takes and cause more trouble. Sandra Fry looks at three common misconceptions she hears as a credit counsellor and what you really need to know. Find out more( https://financialpost.com/personal-finance/debt/tempted-quick-fix-debt-3-misconceptions ).
+Are you worried about having enough for retirement? Do you need to adjust your portfolio? Are you wondering how to make ends meet? Drop us a line at aholloway@postmedia.com( aholloway@postmedia.com ) with your contact info and the general gist of your problem and we'll try to find some experts to help you out while writing a Family Finance story about it (we'll keep your name out of it, of course). If you have a simpler question, the crack team at FP Answers led by Julie Cazzin or one of our columnists can give it a shot.
+McLister on mortgages
+Want to learn more about mortgages? Mortgage strategist Robert McLister's Financial Post column( https://financialpost.com/real-estate/mortgages/robert-mclister-do-the-math-cash-rebates-on-your-mortgage-could-save-you-money ) can help navigate the complex sector, from the latest trends to financing opportunities you won't want to miss. Read them here.( https://financialpost.com/category/real-estate/mortgages/ )
+Today's Posthaste was written by Noella Ovid( novid@postmedia.com ), with additional reporting from Financial Post staff, The Canadian Press and Bloomberg.
+Have a story idea, pitch, embargoed report, or a suggestion for this newsletter? Email us at posthaste@postmedia.com( posthaste@postmedia.com ).
+Bookmark our website and support our journalism: Don't miss the business news you need to know - add financialpost.com( https://financialpost.com/ ) to your bookmarks and sign up for our newsletters here( https://financialpost.com/newsletters/ ). !@COPYRIGHT=© 2024 Postmedia Network Inc. All rights reserved.
+
+Load-Date: April 19, 2024
+
+
+End of Document
+
+
+
+
+
+
+Posthaste: The coming recession will be a tale of housing versus commodities
+National Post (f/k/a The Financial Post) (Canada)
+January 26, 2024 Friday
+Web Edition
+
+
+Copyright 2024 National Post All Rights Reserved
+Section: NEWS
+Length: 1373 words
+Byline: Gigi Suhanic, Gigi Suhanic
+Body
+
+
+How hard each province is hit by this year's expected recession( https://financialpost.com/tag/recession/ ) will depend on their relative exposures to the housing and commodities markets, says one economist.
+"Housing and other interest-rate-sensitive sectors will feel the coming economic downturn most acutely, whereas commodity producers will be less vulnerable," Marc Desormeaux, principal economist at Desjardins Group( https://www.desjardins.com/content/dam/pdf/en/personal/savings-investment/economic-studies/provincial-outlook-jan-23-2024.pdf ), said in a report on Jan. 23. "We think this contrast will become starker in 2024."
+Montreal-based Desormeaux said Ontario and British Columbia - home to Canada's two biggest housing markets( https://financialpost.com/tag/housing-market/ ) - will take the largest economic hit, with each contracting 0.1 per cent in 2024, compared with growth in commodity-focused Alberta, Saskatchewan and Newfoundland and Labrador of 0.9 per cent, 0.7 per cent and 1.7 per cent, respectively.
+Real estate accounted for about 20 per cent of total gross domestic product( https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3610043402 ), according to Statistics Canada, but the sector has been struggling under the weight of higher interest rates( https://financialpost.com/tag/interest-rates/ ).
+Home sales fell 11.2 per cent( https://stats.crea.ca/en-CA/ ) in 2023 from 2022, according to the Canadian Real Estate Association, as higher interest rates cut into activity. CREA in its most recent housing report said "price declines have been predominantly located in Ontario markets ... and to a lesser extent British Columbia."
+With real estate activity accounting for almost 13 per cent GDP in Ontario( https://www.statista.com/statistics/607895/gdp-distribution-of-ontario-canada-by-industry/ ) and almost 20 per cent in B.C.( https://www.statista.com/statistics/608359/gdp-distribution-of-british-columbia-canada-by-industry/ ), it's no wonder Desormeaux predicts a tougher road ahead for those provinces until interest rates start to fall - something economists are forecasting for the middle of this year( https://financialpost.com/news/economy/bank-of-canada-holds-interest-rate-5-2024 ).
+Meanwhile, the strong outlook for commodities, particularly oil, potash and uranium, are expected to provide economic cushions for Alberta, Saskatchewan and Newfoundland and Labrador.
+Toronto home sales( https://financialpost.com/tag/toronto-regional-real-estate-board/ ) rose at the end of the year due to lower mortgage rates, but that "could be a double-edged sword," Desormeaux said, as it augurs worsening affordability in a province with the biggest shortage of housing.
+Furthermore, housing starts are expected to fall in 2024, household consumption is slumping - "unusual outside a recession" - and the savings rate is declining, so various economic headwinds are building.
+But the economist is most worried about the effects of high rates in B.C.
+"B.C. remains Canada's most housing-oriented provincial economy, and its households are the most indebted," he said, adding that a struggling labour market and weakening retail sales are showing signs of the strain from higher interest rates.
+Desormeaux's outlook is sunnier for Alberta. The commodity-dependent economy is looking at stronger-than-expected growth based on increasing oil output. Desjardins is forecasting an average oil price of US$80 per barrel with the nearly finished Trans Mountain pipeline expansion( https://financialpost.com/commodities/energy/oil-gas/trans-mountain-pipeline-start-filling-oil-february ) expected to "support Alberta prices."
+Commodities will also smooth things out in Saskatchewan and Newfoundland and Labrador.
+Uranium production in Saskatchewan is expected to keep rising and oil production will outpace 2023 levels. A $7.5-billion investment in BHP Group Ltd.'s Jansen potash mine is also expected to boost the economy. In Newfoundland and Labrador, where oil production accounts for 20 per cent of output, Suncor Energy Inc.'s Terra Nova offshore oilfield has returned to production after being out of commission since 2019.
+But the expected good times in those three provinces don't mean Canada will avoid an economic contraction.
+"We also still think almost all regions of Canada will experience slowdowns in 2024 in response to sharply higher borrowing costs and weaker expansions among our trading partners," Desormeaux said. "Later this year, rate cuts should help the economy rebound."
+Sign up here( https://view.ceros.com/postmedia-network/posthaste-newsletter-signup/p/1 ) to get Posthaste delivered to your inbox.
+The United States economy's fourth-quarter growth trounced forecasts as cooling inflation fuelled consumer spending, capping a surprisingly strong year that defied recession calls.
+Gross domestic product( https://financialpost.com/tag/gdp/ ) increased at a 3.3 per cent annualized rate, according to the government's preliminary estimate out Thursday. For all of 2023, the economy expanded 2.5 per cent.
+The economy's main growth engine - personal spending - rose at a 2.8 per cent rate. Business investment and housing also helped fuel the larger-than-expected advance last quarter. - Bloomberg
+Read the full story here( https://financialpost.com/news/economy/us-gdp-grew-3-3-last-quarter-capping-unexpectedly-strong-year )
+The 35th Annual Economic Outlook Forum, presented by Scotiabank, will be held in Vancouver with a focus on what businesses in the Greater Vancouver region can expect from the local and national economy in the year ahead.
+The federal Department of Finance publishes financial results for November 2023.
+Today's data: United States personal consumption expenditure index, pending home sales
+Earnings: American Express Co., Colgate-Palmolive Co., Weyerhaeuser Co.
+Get all of today's top breaking stories as they happen with the Financial Post's live news blog,( https://financialpost.com/news/live-news-top-business-stories-january-26-2024 ) highlighting the business headlines you need to know at a glance.
+Real estate industry left playing the waiting game after Bank of Canada hold( https://financialpost.com/real-estate/bank-of-canada-hold-keeps-real-estate-industry-waiting )
+Canada wants to be an EV nation, but will consumers come along for the ride?( https://financialpost.com/commodities/energy/electric-vehicles/canada-wants-ev-nation-will-consumers-ride )
+Trans Mountain pipeline to start filling with oil in February( https://financialpost.com/commodities/energy/oil-gas/trans-mountain-pipeline-start-filling-oil-february )
+The month of January, and, consequently, the new tax year, creates a fresh planning opportunity for post-secondary students to stay one step ahead of the taxman in 2024. This is particularly true when it comes to managing registered education savings plan (RESP) withdrawals to minimize taxes. Read Jamie Golombek's advice here.( https://financialpost.com/personal-finance/taxes/new-tax-year-new-chance-withdraw-strategically-resp )
+* * *
+Are you worried about having enough for retirement? Do you need to adjust your portfolio? Are you wondering how to make ends meet? Drop us a line at aholloway@postmedia.com( aholloway@postmedia.com ) with your contact info and the general gist of your problem and we'll try to find some experts to help you out while writing a Family Finance story about it (we'll keep your name out of it, of course). If you have a simpler question, the crack team at FP Answers led by Julie Cazzin or one of our columnists can give it a shot.
+Bank of Canada holds interest rate at 5%, but signals shift( https://financialpost.com/news/economy/bank-of-canada-holds-interest-rate-5-2024 )
+5 ways Canada can get inflation down without raising interest rates( https://financialpost.com/news/economy/5-simple-ways-canada-inflation-down-without-raising-rates )
+Today's Posthaste was written by Gigi Suhanic( gmvsuhanic@postmedia.com ), with additional reporting from The Canadian Press and Bloomberg.
+Have a story idea, pitch, embargoed report, or a suggestion for this newsletter? Email us at posthaste@postmedia.com( posthaste@postmedia.com ), or hit reply to send us a note. !@COPYRIGHT=© 2024 Postmedia Network Inc. All rights reserved.
+
+Load-Date: January 26, 2024
+
+
+End of Document

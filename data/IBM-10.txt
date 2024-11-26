@@ -1,0 +1,396 @@
+
+User Name: = 
+Date and Time: = 2024-11-25
+Job Number: = 239401782
+
+Documents (10)
+Client/Matter: -None-
+Search Terms: International Business Machines Corp and publication-type(Newspapers)
+Search Type: Boolean
+Content Type|Narrowed by|
+news|Language: English Timeline: Jan 01, 2024 to Jul 31, 2024 Geography News: North America Subject: Business News |
+
+1. Smart Grid IT Systems Market size is set to grow by USD 35.17 billion from 2024-2028, Growing demand for energy and cost-efficiency to boost the market growth, Technavio
+
+2. Wall Street closes in green, Dow Jones up 0.46
+
+3. U.S. COURT OF APPEALS ISSUES OPINION ON INTERNATIONAL BUSINESS MACHINES V/S ZILLOW GROUP CASE
+
+4. IBM issues ‘strict’ back-to-office policy for managers: All the details
+
+5. Tech layoffs continue unabated in March 2024: Apple , IBM , Dell among IT majors that cut jobs
+
+6. ' AI laggards' find favour as Magnificent Seven lose lustre
+
+7. ' AI laggards' find favour as Magnificent Seven stocks lose lustre; Tech; Firms have lower valuations and bars to clear
+
+8. ' AI laggards' find favour as Magnificent Seven lose lustre
+
+9. ' AI laggards' find favour as Magnificent Seven lose lustre
+
+10. Duolingo cuts 10% of its contractors to expand AI usage
+
+
+
+
+
+
+
+
+Smart Grid IT Systems Market size is set to grow by USD 35.17 billion from 2024-2028, Growing demand for energy and cost-efficiency to boost the market growth, Technavio
+RWE Resources News
+July 29, 2024 Monday
+
+
+Copyright 2024 News Bites Pty Ltd. All Rights Reserved
+
+
+Length: 507 words
+Body
+
+
+Monday - July 29: (RWE) - The global smart grid IT systems market  size is estimated to grow by USD 35.17 billion from 2024-2028, according to Technavio. The market is estimated to grow at a CAGR of  22.07%  during the forecast period.  Growing demand for energy and cost-efficiency is driving market growth, with a trend towards increasing role of utility service providers in energy management. However, high implementation costs  poses a challenge. Key market players include ABB Ltd., Cisco Systems Inc., Eaton Corp. Plc, ENEL X srl, General Electric Co., Globema SP Z O O, Honeywell International Inc., International Business Machines Corp., Itron Inc., Kamstrup AS, Mitsubishi Electric Corp., Oracle Corp., SAP SE, Schneider Electric SE, Siemens AG, TANTALUS SYSTEM HOLDING INC., Tech Mahindra Ltd., Trilliant Holdings Inc., Wipro Ltd., and Xylem Inc..
+Get a detailed analysis on regions, market segments, customer landscape, and companies - Click for the snapshot of this report
+Application (Energy Management System, Distribution Management System, Outage management system, and Data analytics), End-user (Residential, Commercial, and Industrial), and Geography (Europe, APAC, North America, South America, and Middle East and Africa)
+ABB Ltd., Cisco Systems Inc., Eaton Corp. Plc, ENEL X srl, General Electric Co., Globema SP Z O O, Honeywell International Inc., International Business Machines Corp., Itron Inc., Kamstrup AS, Mitsubishi Electric Corp., Oracle Corp., SAP SE, Schneider Electric SE, Siemens AG, TANTALUS SYSTEM HOLDING INC., Tech Mahindra Ltd., Trilliant Holdings Inc., Wipro Ltd., and Xylem Inc.
+The power industry is undergoing a transformation, driven by the need to reduce harmful emissions and the implementation of smart grids. Historically, utility operations focused on controlling power generation, transmission, and distribution. However, smart grids enable two-way communication and the transfer of excess power back into the grid through smart meters. This empowers utility service providers to engage with customers, encouraging energy conservation through demand response programs and real-time energy consumption information. The increasing adoption of energy management devices and consumer engagement is helping utilities reduce peak hour demand and defer infrastructure upgrades. For instance, Fayetteville Public Works Commission (PWC) in the US successfully implemented a home energy management program, saving consumers 15%-20% on electricity usage. Industrial stakeholders, including security system providers, device manufacturers, and energy providers, bring unique strengths to the smart grid IT systems market. While device manufacturers focus on product development, utility service providers have the technical expertise to manage energy systems. Consumers, who adopt smart home devices for comfort and convenience, necessitate increased utility involvement in energy management. These factors are expected to fuel the growth of the global smart grid IT systems market during the forecast period. 
+
+Load-Date: July 28, 2024
+
+
+End of Document
+
+
+
+
+
+
+Wall Street closes in green, Dow Jones up 0.46
+CE Noticias Financieras English
+May 6, 2024 Monday
+
+
+Copyright 2024 Content Engine, LLC.
+All Rights Reserved
+Copyright 2024 CE Noticias Financieras All Rights Reserved
+Length: 212 words
+Body
+
+
+New York, May 6 (EFECOM) - Wall Street closed in green Monday and its main indicator, the Dow Jones Industrials, rose 0.46% after a day of optimism about monetary policy in the U.S..
+At the close of the session, the Dow Jones stood at 38,852 points, the S&P 500 gained 1.03% to 5,180 units, and the Nasdaq added a remarkable 1.19% to 16,349 units.
+ Following last week's weaker-than-expected employment report, investors remain confident that the Federal Reserve will cut interest rates sometime before the end of the year.
+The unemployment rate rose to 3.9%, up a tenth of a percent from March; 175,000 new jobs were created - less than expected - and wages rose less than feared.
+On the corporate front, the conglomerate of veteran businessman Warren Buffett, Berkshire Hathaway, which reported an increase in profits and disclosed that it sold Apple shares, made headlines.
+ By sector, the biggest gains were for technology companies (1.48%) and communications (1.39%).
+Among the 30 Dow Jones companies, Walt Disney Co (2.47%), International Business Machines Corp (1.75%) and Microsoft (1.69%) advanced the most.
+Texas oil closed at 78.79 dollars a barrel, at the close of trading 10-year treasury bonds were down 4.48% and gold rose to 2,334 dollars an ounce. EFECOM
+nqs/gac/sbb
+
+Load-Date: May 7, 2024
+
+
+End of Document
+
+
+
+
+
+
+U.S. COURT OF APPEALS ISSUES OPINION ON INTERNATIONAL BUSINESS MACHINES V/S ZILLOW GROUP CASE
+Indian eGov Newswire
+February 5, 2024 Monday
+
+
+Copyright 2024 HT Media Ltd. Provided by Syndigate Media Inc. All Rights Reserved
+
+
+Length: 387 words
+Body
+
+
+WASHINGTON, Feb. 5 -- The U.S. Court of Appeals for the Federal Circuit issued the following opinion on Jan. 9:
+International Business Machines Corp. (IBM) appeals a decision from the Western District of Washington concluding that all patent claims asserted against Zillow Group, Inc. are directed to ineligible subject matter under 35 U.S.C. section 101. Because we agree that all asserted claims are ineligible and the pleadings thus fail to state a claim upon which relief can be granted, we affirm the district court's grant of Zillow's motion to dismiss under Federal Rule of Civil Procedure 12(b)(6).
+I
+A
+At issue in this appeal are two patents that IBM owns, U.S. Patent Nos. 6,778,193 and 6,785,676. The '193 patent is directed to a "graphical user interface for a customer self service system that performs resource search and selection." '193 patent at Abstract. The claimed invention seeks to enhance how search results are displayed to a user by offering three "visual workspaces" that streamline how users input search information. A user begins by entering their search query into a "Context Selection Workspace." '193 patent at 4:61-64. Next, a user can further specify the details of their search in a "Detail Specification Workspace." '193 patent at 4:65-67. Finally, a user can view the results of their search in a "Results Display Workspace." '193 patent at 5:1-2. Representative claim 1 is as follows:
+1. A graphical user interface for a customer self service system that performs resource search and selection comprising:
+a first visual workspace comprising entry field enabling entry of a query for a resource and, one or more selectable graphical user context elements, each element representing a context associated with the current user state and having context attributes and attribute values associated therewith;
+a second visual workspace for visualizing the set of resources that the customer self service system has determined to match the user's query, said system indicating a degree of fit of said determined resources with said query;
+*Rest of the document and Foortnotes can be viewed at: (https://cafc.uscourts.gov/opinions-orders/22-1861.OPINION.1-9-2024_2250479.pdf) For any query with respect to this article or any other content requirement, please contact Editor at contentservices@htlive.com 
+
+Load-Date: February 5, 2024
+
+
+End of Document
+
+
+
+
+
+
+IBM issues ‘strict’ back-to-office policy for managers: All the details
+The Times of India (TOI)
+January 30, 2024 Tuesday
+
+
+Copyright 2024 Bennett Coleman & Co. Ltd. All Rights Reserved
+Section: GADGETS NEWS
+Length: 373 words
+Byline: TOI Tech Desk
+Body
+
+
+International Business Machines Corp (IBM) has issued a strict new return-to-office policy. The latest rule requires all US managers to work from an IBM office or client location at least three days per week. In a memo shared earlier this month, the company’s Senior Vice President John Granger outlined the new policy, reports news agency Bloomberg.Managers (with few exceptions such as medical issues or military service) who are currently working remotely must relocate to within 50 miles (80 kilometres) of an IBM office by August 1. Those not willing to relocate near an office will have to "separate from IBM."In a statement, an IBM spokesperson emphasised the company's belief in the value of in-person collaboration. 
+The company said that face-to-face interactions make employees "more productive, innovative and better able to serve our clients." This policy aligns with previous comments from IBM CEO Arvind Krishna. He stated that promotions will be less common for remote employees. Meanwhile, some IBM teams already had similar attendance requirements, so this memo extends the mandate company-wide for all US managers.The new return-to-office rules come as IBM continues restructuring efforts focused on software and services. Executives recently projected a positive business outlook for 2024 but also indicated plans to reduce jobs this year. Mandatory return-to-office policies often contribute to increased attrition. However, the report didn’t mention how many IBM managers will need to relocate to comply with the new policy.How IBM will monitor employee attendanceThe memo states that badge-in data will be used to monitor individual office attendance. This information will also be shared with managers and human resources. Companies mandating return-to-office policiesOver the past year, many companies across industries have been reinstating office attendance requirements and have replaced earlier incentives with stricter policies. Despite these policies, data from Kastle Systems office occupancy rates remained around 50% of pre-pandemic levels throughout 2023. Apart from IBM, other tech majors like Amazon and AT&T also asked their remote workers to relocate near offices.x For Reprint Rights: timescontent.com
+
+Load-Date: January 30, 2024
+
+
+End of Document
+
+
+
+
+
+
+Tech layoffs continue unabated in March 2024: Apple, IBM, Dell among IT majors that cut jobs
+MINT
+March 30, 2024 Saturday
+
+
+Copyright 2024 HT Media Ltd. All Rights Reserved
+
+
+Length: 490 words
+Dateline: New Delhi 
+Body
+
+
+New Delhi, March 30 -- As the Information Technology industry struggles with its challenges, major tech giants have been on a layoff spree in March this year. The downsizing of the company size is mostly being attributed to "cost-cutting" .
+Big names in the tech industry such as Apple, Dell, and Ericsson have trimmed their workforce citing different reasons. While Apple reportedly sacked its team of engineers because of a job not well done, Ericsson said the demand of 5G equipment had declined.
+Layoffs at Apple: Apple Inc was trying to develop microLED displays for the future models of Apple Watches internally. However, according to Bloomberg, the efforts were futile and because of it the tech giant re-organised its display engineering teams while laying off dozens of employees across Asia and United States.
+Layoffs at Dell: Dell had said that it is cutting its workforce as a part of broader cost-cutting measure. The layoff, which reportedly took away nearly 6,000 jobs, came at a time when the demand for the Dell PCs slowed down causing an 11% drop in the Q4 revenue.
+Layoffs at Ericsson: Earlier this month, Ericsson said that it will cut 1,200 jobs in Sweden because the demand for 5G network equipment has slowed down. The telecom giant is bracing for a "challenging mobile networks market" this year, and therefore the layoffs are a part of its cost-saving measure for 2024.
+Layoffs at Turnitin: Turnitin, a plagiarism detection tech firm, laid off around 15 people earlier this year, TechCrunch reported. Company's CEO Chris Caren said last year that Artificial Intelligence would enable Turnitin to reduce its engineering headcount by 20 per cent within 18 months.
+Layoffs at Zee: Zee Entertainment Enterprises Ltd on Friday said it is overhauling its technology and innovation centre, which includes a pruning of expenses by 50 per cent and a restructuring of its team on the advice of a new management oversight panel.
+Layoffs at IBM: International Business Machines Corp (IBM) in March announced job cuts in its marketing and communication divison, CNBC reported. However, IBM gave no specific number of employees who would lose their jobs in the process. Jonathan Adashek, the chief communications officer at IBM announced the layoffs in a seven-minute meeting, the report added.
+As many as 56,858 tech jobs have been cut in 2024, reported Layoffs.fyi, a startup that has been tracking job cuts in the industry since the pandemic.
+In February, Layoffs.fyi founder Roger Lee, in an email wrote that this year, "tech companies are still trying to correct for their over-hiring during the pandemic surge."
+"Given that the high interest-rate environment and tech downturn have both lasted longer than initially expected," he had added.
+Published by HT Digital Content Services with permission from MINT. For any query with respect to this article or any other content requirement, please contact Editor at contentservices@htlive.com
+
+Load-Date: March 30, 2024
+
+
+End of Document
+
+
+
+
+
+
+'AI laggards' find favour as Magnificent Seven lose lustre
+The Times & Transcript (New Brunswick)
+July 18, 2024 Thursday
+Final Edition
+
+
+Copyright 2024 The Times & Transcript. All Rights Reserved
+Section: BUSINESS; Pg. B2
+Length: 650 words
+Byline: Ryan Vlastelica, Times &; Transcript
+Body
+
+
+Investors are looking beyond the obvious megacap stocks to find the next leg of the artificial-intelligence trade.
+Betting that the Magnificent Seven may be running out of steam after an 18-month rally, some investors are turning their attention to what Melius Research LLC dubbed "AI laggards." This group, which includes Intel Corp., Advanced Micro Devices Inc. and International Business Machines Corp., has exposure to the AI theme, but has failed to keep up with gains for the biggest AI winners in the first half of the year.
+All three have outperformed over the past month, while AI poster child Nvidia Corp. has slightly dropped in that period. Chip stocks broadly fell Wednesday after Bloomberg reported that the Joe Biden administration is considering using the most severe trade restrictions available if companies continue giving China access to advanced chip technology.
+Crucially, the laggards also have lower valuations and bars to clear in terms of sentiment and earnings expectations, suggesting they could be well positioned for the rest of 2024.
+"We are believers in a 'catch-up'trade for some in semis, hardware and even software - those with lower expectations," Melius analyst Ben Reitzes said in a note this month, adding that a similar pattern occurred in 2023, when first-half "underdogs" did well in the second half.
+Reitzes also included Apple Inc. on his list of stocks that underperformed in the first six months. Shares in the iPhone maker have been steadily rising since April, preceding the rotation into other laggards, but have been especially strong since Apple demonstrated long-awaited new AI features last month.
+Ted Mortonson, a technology desk sector strategist at Robert W. Baird &; Co. Inc., said investors are starting to rotate into stocks where fundamentals are strong but expectations are lower, leaving more room for upside.
+"The obvious AI stocks have doubled over the past year and are facing slower growth from here," he said. "It doesn't take a rocket scientist to think they're over-owned and that there might be a catch-up in names that have been overlooked."
+Mortonson highlighted other stocks he sees as beneficiaries of the trade, including software company F5 Inc., electronic measurement instruments company Keysight Technologies Inc. and semiconductor-related companies Diodes Inc., Coherent Corp., Lumentum Holdings Inc. and Aehr Test Systems, which on Tuesday gave a positive outlook.
+The rotation is coming after a first half in which megacaps including Nvidia, Microsoft Corp.
+and Alphabet Inc. propelled the market higher, stretching valuations for these names and leaving them with a tougher setup for the rest of 2024. Citigroup Inc. analysts recently suggested investors take profits in some high-flying AI stocks and "re-balance toward a broader array of AI stocks across the value chain."
+Earnings growth for the Magnificent Seven is expected to decelerate next year, according to Bloomberg Intelligence. At the same time, AI winners such as Nvidia and Microsoft are trading at substantial premiums to their long-term multiples, making laggards like IBM and Intel look like bargains in comparison.
+IBM's second-quarter results next week will be an important data point to determine whether this trade can continue. Last quarter, weak sales from the company's consulting unit sparked the biggest one-day drop in more than two years. While megacap stocks have been hitting record after record this year, IBM hasn't hit one since 2013.
+"Everyone owns the growth tech stocks, but the value side has been neglected at a time when the macro cycle should be pretty favourable," said Ohsung Kwon, equity and quantitative strategist at Bank of America Corp. "There's definitely a trade to be made within tech, since positioning has gotten pretty extreme." With assistance from Subrat Patnaik Bloomberg.com !@COPYRIGHT=© 2024 Times &; Transcript (Moncton)
+
+Graphic
+
+ 
+Photo: Wikimedia Commons; Betting that the Magnificent Seven may be running out of steam after an 18-month rally, some investors are turning their attention to what Melius Research LLC dubbed 'AI laggards.'; 
+
+Load-Date: July 18, 2024
+
+
+End of Document
+
+
+
+
+
+
+'AI laggards' find favour as Magnificent Seven stocks lose lustre; Tech; Firms have lower valuations and bars to clear
+National Post (f/k/a The Financial Post) (Canada)
+July 18, 2024 Thursday
+National Edition
+
+
+Copyright 2024 National Post All Rights Reserved
+Section: FP MONEY; Pg. FP4
+Length: 651 words
+Byline: Ryan Vlastelica, National Post - with Bloomberg file
+Body
+
+
+Investors are looking beyond the obvious megacap stocks to find the next leg of the artificial-intelligence trade.
+Betting that the Magnificent Seven may be running out of steam after an 18-month rally, some investors are turning their attention to what Melius Research LLC dubbed "AI laggards." This group, which includes Intel Corp., Advanced Micro Devices Inc. and International Business Machines Corp., has exposure to the AI theme, but has failed to keep up with gains for the biggest AI winners in the first half of the year.
+All three have outperformed over the past month, while AI poster child Nvidia Corp. has slightly dropped in that period. Chip stocks broadly fell Wednesday after Bloomberg reported that the Joe Biden administration is considering using the most severe trade restrictions available if companies continue giving China access to advanced chip technology.
+Crucially, the laggards also have lower valuations and bars to clear in terms of sentiment and earnings expectations, suggesting they could be well positioned for the rest of 2024.
+"We are believers in a 'catch-up'trade for some in semis, hardware and even software - those with lower expectations," Melius analyst Ben Reitzes said in a note this month, adding that a similar pattern occurred in 2023, when first-half "underdogs" did well in the second half.
+Reitzes also included Apple Inc. on his list of stocks that underperformed in the first six months. Shares in the iPhone maker have been steadily rising since April, preceding the rotation into other laggards, but have been especially strong since Apple demonstrated long-awaited new AI features last month.
+Ted Mortonson, a technology desk sector strategist at Robert W. Baird &; Co. Inc., said investors are starting to rotate into stocks where fundamentals are strong but expectations are lower, leaving more room for upside.
+"The obvious AI stocks have doubled over the past year and are facing slower growth from here," he said. "It doesn't take a rocket scientist to think they're overowned and that there might be a catch-up in names that have been overlooked."
+Mortonson highlighted other stocks he sees as beneficiaries of the trade, including software company F5 Inc., electronic measurement instruments company Keysight Technologies Inc. and semiconductor-related companies Diodes Inc., Coherent Corp., Lumentum Holdings Inc. and Aehr Test Systems, which on Tuesday gave a positive outlook.
+The rotation is coming after a first half in which megacaps including Nvidia, Microsoft Corp. and Alphabet Inc. propelled the market higher, stretching valuations for these names and leaving them with a tougher setup for the rest of 2024. Citigroup Inc. analysts recently suggested investors take profits in some high-flying AI stocks and "re-balance toward a broader array of AI stocks across the value chain."
+Earnings growth for the Magnificent Seven is expected to decelerate next year, according to Bloomberg Intelligence. At the same time, AI winners such as Nvidia and Microsoft are trading at substantial premiums to their long-term multiples, making laggards like IBM and Intel look like bargains in comparison.
+IBM's second-quarter results next week will be an important data point to determine whether this trade can continue. Last quarter, weak sales from the company's consulting unit sparked the biggest one-day drop in more than two years. While megacap stocks have been hitting record after record this year, IBM hasn't hit one since 2013.
+"Ever yone owns the growth tech stocks, but the value side has been neglected at a time when the macro cycle should be pretty favourable," said Ohsung Kwon, equity and quantitative strategist at Bank of America Corp. "There's definitely a trade to be made within tech, since positioning has gotten pretty extreme."
+With assistance from Subrat Patnaik Bloomberg !@COPYRIGHT=© 2024 Postmedia Network Inc. All rights reserved.
+
+Graphic
+
+ 
+Ryan Remiorz, The Canadian Press Files; Intel, AMD and IBM all have exposure to the AI theme, and all three have outperformed over the past month.; 
+
+Load-Date: July 18, 2024
+
+
+End of Document
+
+
+
+
+
+
+'AI laggards' find favour as Magnificent Seven lose lustre
+The Telegraph-Journal (New Brunswick)
+July 18, 2024 Thursday
+Final Edition
+
+
+Copyright 2024 The Telegraph Journal All Rights Reserved
+Section: BUSINESS; Pg. B2
+Length: 650 words
+Byline: Ryan Vlastelica, Telegraph-Journal
+Body
+
+
+Investors are looking beyond the obvious megacap stocks to find the next leg of the artificial-intelligence trade.
+Betting that the Magnificent Seven may be running out of steam after an 18-month rally, some investors are turning their attention to what Melius Research LLC dubbed "AI laggards." This group, which includes Intel Corp., Advanced Micro Devices Inc. and International Business Machines Corp., has exposure to the AI theme, but has failed to keep up with gains for the biggest AI winners in the first half of the year.
+All three have outperformed over the past month, while AI poster child Nvidia Corp. has slightly dropped in that period. Chip stocks broadly fell Wednesday after Bloomberg reported that the Joe Biden administration is considering using the most severe trade restrictions available if companies continue giving China access to advanced chip technology.
+Crucially, the laggards also have lower valuations and bars to clear in terms of sentiment and earnings expectations, suggesting they could be well positioned for the rest of 2024.
+"We are believers in a 'catch-up'trade for some in semis, hardware and even software - those with lower expectations," Melius analyst Ben Reitzes said in a note this month, adding that a similar pattern occurred in 2023, when first-half "underdogs" did well in the second half.
+Reitzes also included Apple Inc. on his list of stocks that underperformed in the first six months. Shares in the iPhone maker have been steadily rising since April, preceding the rotation into other laggards, but have been especially strong since Apple demonstrated long-awaited new AI features last month.
+Ted Mortonson, a technology desk sector strategist at Robert W. Baird &; Co. Inc., said investors are starting to rotate into stocks where fundamentals are strong but expectations are lower, leaving more room for upside.
+"The obvious AI stocks have doubled over the past year and are facing slower growth from here," he said. "It doesn't take a rocket scientist to think they're over-owned and that there might be a catch-up in names that have been overlooked."
+Mortonson highlighted other stocks he sees as beneficiaries of the trade, including software company F5 Inc., electronic measurement instruments company Keysight Technologies Inc. and semiconductor-related companies Diodes Inc., Coherent Corp., Lumentum Holdings Inc. and Aehr Test Systems, which on Tuesday gave a positive outlook.
+The rotation is coming after a first half in which megacaps including Nvidia, Microsoft Corp.
+and Alphabet Inc. propelled the market higher, stretching valuations for these names and leaving them with a tougher setup for the rest of 2024. Citigroup Inc. analysts recently suggested investors take profits in some high-flying AI stocks and "re-balance toward a broader array of AI stocks across the value chain."
+Earnings growth for the Magnificent Seven is expected to decelerate next year, according to Bloomberg Intelligence. At the same time, AI winners such as Nvidia and Microsoft are trading at substantial premiums to their long-term multiples, making laggards like IBM and Intel look like bargains in comparison.
+IBM's second-quarter results next week will be an important data point to determine whether this trade can continue. Last quarter, weak sales from the company's consulting unit sparked the biggest one-day drop in more than two years. While megacap stocks have been hitting record after record this year, IBM hasn't hit one since 2013.
+"Everyone owns the growth tech stocks, but the value side has been neglected at a time when the macro cycle should be pretty favourable," said Ohsung Kwon, equity and quantitative strategist at Bank of America Corp. "There's definitely a trade to be made within tech, since positioning has gotten pretty extreme." With assistance from Subrat Patnaik Bloomberg.com !@COPYRIGHT=© 2024 Telegraph-Journal (New Brunswick)
+
+Graphic
+
+ 
+Photo: Wikimedia Commons; Betting that the Magnificent Seven may be running out of steam after an 18-month rally, some investors are turning their attention to what Melius Research LLC dubbed 'AI laggards.'; 
+
+Load-Date: July 18, 2024
+
+
+End of Document
+
+
+
+
+
+
+'AI laggards' find favour as Magnificent Seven lose lustre
+The Daily Gleaner (New Brunswick)
+July 18, 2024 Thursday
+Final Edition
+
+
+Copyright 2024 The Daily Gleaner All Rights Reserved
+Section: BUSINESS; Pg. B2
+Length: 650 words
+Byline: Ryan Vlastelica, The Daily Gleaner (Fredericton)
+Body
+
+
+Investors are looking beyond the obvious megacap stocks to find the next leg of the artificial-intelligence trade.
+Betting that the Magnificent Seven may be running out of steam after an 18-month rally, some investors are turning their attention to what Melius Research LLC dubbed "AI laggards." This group, which includes Intel Corp., Advanced Micro Devices Inc. and International Business Machines Corp., has exposure to the AI theme, but has failed to keep up with gains for the biggest AI winners in the first half of the year.
+All three have outperformed over the past month, while AI poster child Nvidia Corp. has slightly dropped in that period. Chip stocks broadly fell Wednesday after Bloomberg reported that the Joe Biden administration is considering using the most severe trade restrictions available if companies continue giving China access to advanced chip technology.
+Crucially, the laggards also have lower valuations and bars to clear in terms of sentiment and earnings expectations, suggesting they could be well positioned for the rest of 2024.
+"We are believers in a 'catch-up'trade for some in semis, hardware and even software - those with lower expectations," Melius analyst Ben Reitzes said in a note this month, adding that a similar pattern occurred in 2023, when first-half "underdogs" did well in the second half.
+Reitzes also included Apple Inc. on his list of stocks that underperformed in the first six months. Shares in the iPhone maker have been steadily rising since April, preceding the rotation into other laggards, but have been especially strong since Apple demonstrated long-awaited new AI features last month.
+Ted Mortonson, a technology desk sector strategist at Robert W. Baird &; Co. Inc., said investors are starting to rotate into stocks where fundamentals are strong but expectations are lower, leaving more room for upside.
+"The obvious AI stocks have doubled over the past year and are facing slower growth from here," he said. "It doesn't take a rocket scientist to think they're over-owned and that there might be a catch-up in names that have been overlooked."
+Mortonson highlighted other stocks he sees as beneficiaries of the trade, including software company F5 Inc., electronic measurement instruments company Keysight Technologies Inc. and semiconductor-related companies Diodes Inc., Coherent Corp., Lumentum Holdings Inc. and Aehr Test Systems, which on Tuesday gave a positive outlook.
+The rotation is coming after a first half in which megacaps including Nvidia, Microsoft Corp.
+and Alphabet Inc. propelled the market higher, stretching valuations for these names and leaving them with a tougher setup for the rest of 2024. Citigroup Inc. analysts recently suggested investors take profits in some high-flying AI stocks and "re-balance toward a broader array of AI stocks across the value chain."
+Earnings growth for the Magnificent Seven is expected to decelerate next year, according to Bloomberg Intelligence. At the same time, AI winners such as Nvidia and Microsoft are trading at substantial premiums to their long-term multiples, making laggards like IBM and Intel look like bargains in comparison.
+IBM's second-quarter results next week will be an important data point to determine whether this trade can continue. Last quarter, weak sales from the company's consulting unit sparked the biggest one-day drop in more than two years. While megacap stocks have been hitting record after record this year, IBM hasn't hit one since 2013.
+"Everyone owns the growth tech stocks, but the value side has been neglected at a time when the macro cycle should be pretty favourable," said Ohsung Kwon, equity and quantitative strategist at Bank of America Corp. "There's definitely a trade to be made within tech, since positioning has gotten pretty extreme." With assistance from Subrat Patnaik Bloomberg.com !@COPYRIGHT=© 2024 The Daily Gleaner (Fredericton)
+
+Graphic
+
+ 
+Photo: Wikimedia Commons; Betting that the Magnificent Seven may be running out of steam after an 18-month rally, some investors are turning their attention to what Melius Research LLC dubbed 'AI laggards.'; 
+
+Load-Date: July 18, 2024
+
+
+End of Document
+
+
+
+
+
+
+Duolingo cuts 10% of its contractors to expand AI usage
+CE Noticias Financieras English
+January 8, 2024 Monday
+
+
+Copyright 2024 Content Engine, LLC.
+All Rights Reserved
+Copyright 2024 CE Noticias Financieras All Rights Reserved
+Length: 526 words
+Body
+
+
+(Bloomberg) -- Duolingo Inc, the maker of language-learning software, will cut some contractors as it uses generative artificial intelligence to generate more content, the latest sign that companies are shifting some tasks normally performed by workers to AI tools.
+About 10% of contractors were "laid off," a company spokesman said Monday. "We just don't need as many people anymore to do the kind of work that some of them were doing. Part of that could be attributed to AI," the spokesman said.
+CEO Luis von Ahn said in a letter to shareholders in November that the company uses generative AI-a technology that allows users to more quickly create text, voice and images-to produce "new content much faster," such as scripts for programs that help teach languages. The company also uses AI to generate voices within the app and has introduced a premium level, Duolingo Max, with AI-generated commentary and conversations in other languages.
+The spokesperson said the job cuts are not a "direct replacement" of AI workers, as many of its full-time employees and contractors use the technology in their work. At the end of 2022 Duolingo had 600 full-time workers, according to company records. The spokesperson added that no full-time employees were affected by the cut.
+The intense interest in generative AI has led labor groups and unions to question whether companies will use the technology as an excuse to reduce their workforces. A report released in April by the World Economic Forum estimated that AI would cause "significant labor market disruptions" over the next five years, although the net impact may be positive as employers seek workers with more technical skills to navigate the use of the technology.
+Last month, Microsoft Corp. responded to those concerns and announced a partnership with the American Federation of Labor and the Congress of Industrial Organizations, made up of 60 unions representing 12.5 million workers, to train people about AI and study how the technology may affect employment.
+At an event announcing the partnership, Microsoft President Brad Smith said the goal is to bring industry and workers to the table to "improve" the way people work.
+"I can't sit here and say AI will never displace a job," Smith said at the event. "I don't think that's honest. AI is well designed to speed up and eliminate some of the parts of people's jobs that might be considered monotonous."
+Chegg Inc, which offers online homework help services, said in June that it will cut 4% of its workforce and better incorporate AI into its tutoring as students become more comfortable with chatbots.
+In May, International Business Machines Corp. chief executive Arvind Krishna said the company planned to pause hiring for positions he believed could be replaced by AI technology in the next few years. He said 30% of jobs in administrative functions, such as human resources, could be automated with AI tools within five years.
+Translated by Paola Torre.
+Original Note:Duolingo Cuts 10% of Contractors in Move to Expand Use of AI (1)
+--Contributed by Jackie Davalos and Josh Eidelson.
+More stories like this are available on bloomberg.com
+©2024 Bloomberg L.P.
+
+Load-Date: January 9, 2024
+
+
+End of Document

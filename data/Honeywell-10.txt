@@ -1,0 +1,299 @@
+
+User Name: = 
+Date and Time: = 2024-11-25
+Job Number: = 239401726
+
+Documents (10)
+Client/Matter: -None-
+Search Terms: Honeywell International Inc and publication-type(Newspapers)
+Search Type: Boolean
+Content Type|Narrowed by|
+news|Language: English Timeline: Jan 01, 2024 to Jul 31, 2024 Geography News: North America Subject: Business News |
+
+1. Voxware and Honeywell International Inc. Agree to Resolve Disputes
+
+2. Intellectual Property India Publishes Patent Application for 'Apparatuses, Methods, And Computer Program Products For Predicting Methane Emissions Intensity' Filed by Honeywell International Inc.
+
+3. Intellectual Property India Publishes Patent Application for 'Apparatuses, Methods, And Computer Program Products For Predicting Fugitive Leaks' Filed by Honeywell International Inc.
+
+4. Intellectual Property India Publishes Patent Application for 'Runtime Optimizations To Data Models For Facility Maintenance Operations' Filed by Honeywell International Inc.
+
+5. Intellectual Property India Publishes Patent Application for 'Method And System For Locating And Quantifying Fugitive Emission Leaks' Filed by Honeywell International Inc.
+
+6. Intellectual Property India Publishes Patent Application for 'Apparatuses, Computer-Implemented Methods, And Computer Program Products For Implementing Automatically Selected Reporting Protocols' Filed by Honeywell International Inc.
+
+7. Intellectual Property India Publishes Patent Application for 'Apparatuses, Methods, And Computer Program Products For Determining An Amount Of Greenhouse Gas Emitted' Filed by Honeywell International Inc.
+
+8. Intellectual Property India Publishes Patent Application for 'Systems, Apparatuses, Methods, And Computer Program Products For Segregation Of Flaring And Venting Volumes Using Machine Learning Approaches' Filed by Honeywell International Inc.
+
+9. Intellectual Property India Publishes Patent Application for 'Methods And Systems For Management Of Events And Disruptions' Filed by Honeywell International Inc.
+
+10. Intellectual Property India Publishes Patent Application for 'System And Method For Template Creation, Configuration, And Identification' Filed by Honeywell International Inc.
+
+
+
+
+
+
+
+
+Voxware and Honeywell International Inc. Agree to Resolve Disputes
+Legal Monitor Worldwide
+February 17, 2024 Saturday
+
+
+Copyright 2024 Legal Monitor Worldwide Provided by Syndigate Media Inc. All Rights Reserved
+
+
+Length: 279 words
+Body
+
+
+(PRWeb) - Voxware and Honeywell have agreed to resolve their disputes.
+HAMILTON, N.J., Feb. 16, 2024 /PRNewswire-PRWeb/ -- Voxware, a leading provider of cloud-based voice and analytic supply chain solutions, and Honeywell International Inc., an integrated operating company serving a broad range of industries and geographies around the world, have agreed to resolve their disputes.
+Terms of the arrangement results in a multi-year license to Honeywell patented technology for use in Voxware's voice automation software solutions. In exchange for a license to the patents that were the subject of the lawsuit it initiated, Voxware has agreed to make a lumpsum payment to resolve Honeywell's claims, pay ongoing royalties for the license to the patents, and withdraw the claims it asserted against Honeywell.
+"Voxware is happy to reach resolution in this matter and secure a license to Honeywell's patented voice technology," said Jason Barrett, Vice President, Research & Development.
+About Voxware
+Voxware offers technology solutions that deliver essential supply chain information exactly when and where it's needed, optimizing the speed, accuracy and efficiency of distribution operations. Its product suite includes both warehouse automation and analytics solutions uniquely focused on distribution functions. With these solutions, companies reach an unprecedented understanding of how best to manage their operations, improving profitability by reducing costs and exceeding customer expectations. For more information, please visit www.voxware.com .
+Media Contact
+Kevin Jurrens, Voxware, Inc., 1 6093066418, kjurrens@broadpathpr.com , http://www.voxware.com/
+SOURCE Voxware, Inc.
+
+Load-Date: February 17, 2024
+
+
+End of Document
+
+
+
+
+
+
+Intellectual Property India Publishes Patent Application for 'Apparatuses, Methods, And Computer Program Products For Predicting Methane Emissions Intensity' Filed by Honeywell International Inc.
+IPR
+June 21, 2024 Friday 6:10 PM  EST
+
+
+Copyright 2024 HT Media Ltd. All Rights Reserved
+
+
+Length: 252 words
+Dateline: MUMBAI, India 
+Body
+
+
+MUMBAI, India, June 21 -- Intellectual Property India has published a patent application (202211073906 A) filed by Honeywell International Inc., Charlotte, U.S.A., on Dec. 20, 2022, for 'apparatuses, methods, and computer program products for predicting methane emissions intensity.'
+Inventor(s) include Abidin, Shahrul Azman Bin Zainal; Gundappa, Madhukar Madhavamurthy; and Natarajan, Ramesh Murugan. The application for the patent was published on June 21, under issue no. 25/2024. According to the abstract released by the Intellectual Property India: "Methods, apparatuses, and computer program products for predicting methane emissions intensity are provided. For example, a computer-implemented method may include receiving projected production parameters and emissions reduction strategy information associated with one or more operational systems for a period of time and generating, using a methane emissions intensity prediction model, methane emissions intensity predictions based on the projected production parameters and the emissions reduction strategy information along with historical operational data and historical emissions data for the one or more operational systems. The methane emissions intensity prediction model may be a machine learning model trained on the historical operational data and historical emissions data and possibly simulated emissions data." For any query with respect to this article or any other content requirement, please contact Editor at contentservices@htdigital.in
+
+Load-Date: July 3, 2024
+
+
+End of Document
+
+
+
+
+
+
+Intellectual Property India Publishes Patent Application for 'Apparatuses, Methods, And Computer Program Products For Predicting Fugitive Leaks' Filed by Honeywell International Inc.
+IPR
+June 21, 2024 Friday 6:10 PM  EST
+
+
+Copyright 2024 HT Media Ltd. All Rights Reserved
+
+
+Length: 264 words
+Dateline: MUMBAI, India 
+Body
+
+
+MUMBAI, India, June 21 -- Intellectual Property India has published a patent application (202211073908 A) filed by Honeywell International Inc., Charlotte, U.S.A., on Dec. 20, 2022, for 'apparatuses, methods, and computer program products for predicting fugitive leaks.'
+Inventor(s) include Abidin, Shahrul Azman Bin Zainal; Gundappa, Madhukar Madhavamurthy; and Natarajan, Ramesh Murugan. The application for the patent was published on June 21, under issue no. 25/2024. According to the abstract released by the Intellectual Property India: "Methods, apparatuses, and computer program products for predicting fugitive leaks are provided. For example, a computer-implemented method may include receiving current operating conditions data associated with current operation of one or more operational systems and generating, using a fugitive leak prediction model, fugitive leak predictions corresponding to the current operation of the one or more operational systems. The fugitive leak prediction model may be a machine learning model trained based at least in part on historical operating conditions data associated with past operation of the one or more operational systems and historical fugitive emissions data associated with the past operation of the one or more operational systems, and the fugitive leak prediction model may be configured to generate the fugitive leak predictions based at least in part on the current operating conditions data." For any query with respect to this article or any other content requirement, please contact Editor at contentservices@htdigital.in
+
+Load-Date: July 3, 2024
+
+
+End of Document
+
+
+
+
+
+
+Intellectual Property India Publishes Patent Application for 'Runtime Optimizations To Data Models For Facility Maintenance Operations' Filed by Honeywell International Inc.
+IPR
+June 28, 2024 Friday 7:38 PM  EST
+
+
+Copyright 2024 HT Media Ltd. All Rights Reserved
+
+
+Length: 301 words
+Dateline: MUMBAI, India 
+Body
+
+
+MUMBAI, India, June 28 -- Intellectual Property India has published a patent application (202241074531 A) filed by Honeywell International Inc., Charlotte, U.S.A., on Dec. 22, 2022, for 'runtime optimizations to data models for facility maintenance operations.'
+Inventor(s) include Telang, Jayalaxmi; Taranath, Manu; Prabhu, Naveen; Nagar, Nishit; Bisati, Jayaprakash; Bhatia, Manish; Murugan, Gopalan; Sasidharan, Sarath; and Scherf, Ronny. The application for the patent was published on June 28, under issue no. 26/2024. According to the abstract released by the Intellectual Property India: "Techniques for runtime optimizations to data models for facility 5 maintenance operations are described. In operation, a custom request from a user to modify a data model of a facility, where the data model is indicative of information corresponding to assets monitored in the facility, and where the data model of the facility includes asset data corresponding to each asset of the facility and key performance indicators (KPIs) corresponding to 10 each asset of the facility. A category of the custom request is then identified to generate a query list corresponding to the category of custom request for modifying asset data in the data model, where the custom request includes at least one of updating asset data corresponding to an asset of the facility and introducing new asset data in the data model. A custom input from the 15 user is then received in response to the query list generated and modifying the data model in correspondence to the custom input. The data model is subsequently executed with modified asset data in runtime for dynamic monitoring of the facility." For any query with respect to this article or any other content requirement, please contact Editor at contentservices@htdigital.in
+
+Load-Date: July 17, 2024
+
+
+End of Document
+
+
+
+
+
+
+Intellectual Property India Publishes Patent Application for 'Method And System For Locating And Quantifying Fugitive Emission Leaks' Filed by Honeywell International Inc.
+IPR
+July 19, 2024 Friday 7:18 PM  EST
+
+
+Copyright 2024 HT Media Ltd. All Rights Reserved
+
+
+Length: 306 words
+Dateline: MUMBAI, India 
+Body
+
+
+MUMBAI, India, July 19 -- Intellectual Property India has published a patent application (202314030217 A) filed by Honeywell International Inc., Charlotte, U.S.A., on April 26, 2023, for 'method and system for locating and quantifying fugitive emission leaks.'
+Inventor(s) include Trenchard Andrew J; Scoggins Sean; and Kastelein Bas. The application for the patent was published on July 19, under issue no. 29/2024. According to the abstract released by the Intellectual Property India: "A method and system for locating and quantifying fugitive emission leaks is disclosed that includes obtaining gas sensor data and wind direction data from a plurality of sensors and weather stations located proximate a given area of interest. The gas sensor data and the wind direction data is validated to remove erroneous values and to merge the gas sensor data with the wind direction data to provide time synchronized gas sensor data and wind direction data over a given time interval. The time synchronized gas sensor data and wind direction data is segmented for each gas sensor location into wind direction bins containing a concentration of the gas levels in each bin. The area of interest is divided into a grid of cells and the bins projected on the grid cells for each gas sensor location along with the level of gas contained in the bins. The grid cells are then grouped into one or more contiguous grid cells having gas levels above a predefined level and a boundary area is calculated containing the grid cells with a gas level above a threshold to identify a potential leak area. The potential leak area is matched with a prior calculated leak area to identify the source location of the emission leak." For any query with respect to this article or any other content requirement, please contact Editor at contentservices@htdigital.in
+
+Load-Date: July 30, 2024
+
+
+End of Document
+
+
+
+
+
+
+Intellectual Property India Publishes Patent Application for 'Apparatuses, Computer-Implemented Methods, And Computer Program Products For Implementing Automatically Selected Reporting Protocols' Filed by Honeywell International Inc.
+IPR
+June 21, 2024 Friday 6:10 PM  EST
+
+
+Copyright 2024 HT Media Ltd. All Rights Reserved
+
+
+Length: 247 words
+Dateline: MUMBAI, India 
+Body
+
+
+MUMBAI, India, June 21 -- Intellectual Property India has published a patent application (202211073870 A) filed by Honeywell International Inc., Charlotte, U.S.A., on Dec. 20, 2022, for 'apparatuses, computer-implemented methods, and computer program products for implementing automatically selected reporting protocols.'
+Inventor(s) include Abidin, Shahrul Azman Bin Zainal; Gundappa, Madhukar Madhavamurthy; and Natarajan, Ramesh Murugan. The application for the patent was published on June 21, under issue no. 25/2024. According to the abstract released by the Intellectual Property India: "Embodiments of the present disclosure provide for implementing at least one automatically selected reporting protocol. Some embodiments select a particular reporting protocol for use based at least in part on particular location data, for example location data associated with a processing plant, processing unit, and/or multiple processing plants individually. Some embodiments select a particular reporting protocol using a specially configured artificial intelligence model that learns a most probably accurate reporting protocol corresponding to particular location data. Additionally, some embodiments generate an operational report based at least in part on a selected reporting protocol and operations data received for a particular processing plant." For any query with respect to this article or any other content requirement, please contact Editor at contentservices@htdigital.in
+
+Load-Date: July 3, 2024
+
+
+End of Document
+
+
+
+
+
+
+Intellectual Property India Publishes Patent Application for 'Apparatuses, Methods, And Computer Program Products For Determining An Amount Of Greenhouse Gas Emitted' Filed by Honeywell International Inc.
+IPR
+June 21, 2024 Friday 6:10 PM  EST
+
+
+Copyright 2024 HT Media Ltd. All Rights Reserved
+
+
+Length: 236 words
+Dateline: MUMBAI, India 
+Body
+
+
+MUMBAI, India, June 21 -- Intellectual Property India has published a patent application (202211073865 A) filed by Honeywell International Inc., Charlotte, U.S.A., on Dec. 20, 2022, for 'apparatuses, methods, and computer program products for determining an amount of greenhouse gas emitted.'
+Inventor(s) include Abidin, Shahrul Azman Bin Zainal; Gundappa, Madhukar Madhavamurthy; and Natarajan, Ramesh Murugan. The application for the patent was published on June 21, under issue no. 25/2024. According to the abstract released by the Intellectual Property India: "Methods, apparatuses, and computer program products for determining amounts of greenhouse gas emissions are provided. For example, a computer-implemented method may include determining an amount of each of a plurality of constituent components of a fuel being used, determining one or more properties of the fuel, generating one or more emission factors for the fuel, determining an amount of the fuel used, and using the one or more generated emission factors, determining an emitted amount of a corresponding one or more greenhouse gases. Each emission factor corresponds to a different greenhouse gas. Each emission factor is generated using at least one of the constituent components and at least one of the properties." For any query with respect to this article or any other content requirement, please contact Editor at contentservices@htdigital.in
+
+Load-Date: July 3, 2024
+
+
+End of Document
+
+
+
+
+
+
+Intellectual Property India Publishes Patent Application for 'Systems, Apparatuses, Methods, And Computer Program Products For Segregation Of Flaring And Venting Volumes Using Machine Learning Approaches' Filed by Honeywell International Inc.
+IPR
+June 21, 2024 Friday 6:10 PM  EST
+
+
+Copyright 2024 HT Media Ltd. All Rights Reserved
+
+
+Length: 236 words
+Dateline: MUMBAI, India 
+Body
+
+
+MUMBAI, India, June 21 -- Intellectual Property India has published a patent application (202211073868 A) filed by Honeywell International Inc., Charlotte, U.S.A., on Dec. 20, 2022, for 'systems, apparatuses, methods, and computer program products for segregation of flaring and venting volumes using machine learning approaches.'
+Inventor(s) include Abidin, Shahrul Azman Bin Zainal; Gundappa, Madhukar Madhavamurthy; and Natarajan, Ramesh Murugan. The application for the patent was published on June 21, under issue no. 25/2024. According to the abstract released by the Intellectual Property India: "Systems, apparatuses, methods, and computer products for segregating flaring and/or venting volumes are provided, including for segregating flaring and/or venting into one or more classifications using machine learning approaches. For example, a method may include receiving sensor data associated with a flare from at least a first sensor, determining a first gas volume of a first gas associated with the flare, and determining, via a machine learning process, one or more classifications of the flare based on the sensor data and the first gas volume. The classifications may be chosen from a set of classifications including routine flaring, non-routine flaring, and safety flaring." For any query with respect to this article or any other content requirement, please contact Editor at contentservices@htdigital.in
+
+Load-Date: July 3, 2024
+
+
+End of Document
+
+
+
+
+
+
+Intellectual Property India Publishes Patent Application for 'Methods And Systems For Management Of Events And Disruptions' Filed by Honeywell International Inc.
+IPR
+April 6, 2024 Saturday 11:14 AM  EST
+
+
+Copyright 2024 HT Media Ltd. All Rights Reserved
+
+
+Length: 228 words
+Dateline: MUMBAI, India 
+Body
+
+
+MUMBAI, India, April 6 -- Intellectual Property India has published a patent application (202314058198 A) filed by Honeywell International Inc., Charlotte, U.S.A., on Aug. 30, 2023, for 'methods and systems for management of events and disruptions.'
+Inventor(s) include Kalimulla Khan; Srihari Jayathirtha; Wade Lindsey; and Garrett Rysko. The application for the patent was published on April 5, under issue no. 14/2024. According to the abstract released by the Intellectual Property India: "A method is provided for event and disruption management in a workplace environment. The method comprises retrieving a set of tasks to be completed in a predetermined period, identifying a set of triggering events that may disrupt each task of the set of set of tasks; when a triggering event of the set of triggering events occurs, initiating an event resolution, wherein the event resolution comprises one or more of: sending a notification of the triggering event to at least one of the plurality of worker computing devices relating to at least one worker affected by the triggering event; and sending the notification of the triggering event to at least one device associated with at least one supervisor affected by the triggering event." For any query with respect to this article or any other content requirement, please contact Editor at contentservices@htdigital.in
+
+Load-Date: April 23, 2024
+
+
+End of Document
+
+
+
+
+
+
+Intellectual Property India Publishes Patent Application for 'System And Method For Template Creation, Configuration, And Identification' Filed by Honeywell International Inc.
+IPR
+April 6, 2024 Saturday 11:14 AM  EST
+
+
+Copyright 2024 HT Media Ltd. All Rights Reserved
+
+
+Length: 242 words
+Dateline: MUMBAI, India 
+Body
+
+
+MUMBAI, India, April 6 -- Intellectual Property India has published a patent application (202314058291 A) filed by Honeywell International Inc., Charlotte, U.S.A., on Aug. 30, 2023, for 'system and method for template creation, configuration, and identification.'
+Inventor(s) include Kalimulla Khan; Wade Lindsey; Srihari Jayathirtha; and Syed Khaja Afzal Hussaini. The application for the patent was published on April 5, under issue no. 14/2024. According to the abstract released by the Intellectual Property India: "A method is provided for creating and organizing tasks and events in a warehouse environment. The method includes determining, based on information received from a data ingestion pipeline and a system integration framework, that a worker is requesting a template to generate a task or event; retrieving the template from a memory, the template having information corresponding to the task or the event associated with the connected warehouse; sending the template to the worker computing device associated with the worker requesting the template; sending a prompt to input data into the template on the worker computing device; uploading the data from the template to a dashboard accessible from the plurality of worker computing devices, the data indicating the creation of a new task and/or a new event." For any query with respect to this article or any other content requirement, please contact Editor at contentservices@htdigital.in
+
+Load-Date: April 23, 2024
+
+
+End of Document

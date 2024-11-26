@@ -1,0 +1,436 @@
+
+User Name: = 
+Date and Time: = 2024-11-25
+Job Number: = 239401443
+
+Documents (10)
+Client/Matter: -None-
+Search Terms: Cisco Systems Inc and publication-type(Newspapers)
+Search Type: Boolean
+Content Type|Narrowed by|
+news|Language: English Timeline: Jan 01, 2024 to Jul 31, 2024 Geography News: North America Subject: Business News |
+
+1. Smart Grid IT Systems Market size is set to grow by USD 35.17 billion from 2024-2028, Growing demand for energy and cost-efficiency to boost the market growth, Technavio
+
+2. Nvidia and 5 tech giants now account for 30% of the S&P 500 index
+
+3. Founders Fund names new leader
+
+4. 'Do Nothing' stocks have averaged 14% return
+
+5. AI doesn't feel pain, but investors do so your mission should be to protect yourself
+
+6. Startup Cohere finds success in simplicity Company valued at $5.5B in new funding round
+
+7. Demand Response (DR) Market size is to grow by USD 2.90 billion from 2023 to 2028, Technavio
+
+8. 30-30 Club becomes more exclusive
+
+9. UMich introduces Duo Universal Prompt
+
+10. Centenary printer manufacturer HP invests in artificial intelligence by buying Juniper
+
+
+
+
+
+
+
+
+Smart Grid IT Systems Market size is set to grow by USD 35.17 billion from 2024-2028, Growing demand for energy and cost-efficiency to boost the market growth, Technavio
+RWE Resources News
+July 29, 2024 Monday
+
+
+Copyright 2024 News Bites Pty Ltd. All Rights Reserved
+
+
+Length: 507 words
+Body
+
+
+Monday - July 29: (RWE) - The global smart grid IT systems market  size is estimated to grow by USD 35.17 billion from 2024-2028, according to Technavio. The market is estimated to grow at a CAGR of  22.07%  during the forecast period.  Growing demand for energy and cost-efficiency is driving market growth, with a trend towards increasing role of utility service providers in energy management. However, high implementation costs  poses a challenge. Key market players include ABB Ltd., Cisco Systems Inc., Eaton Corp. Plc, ENEL X srl, General Electric Co., Globema SP Z O O, Honeywell International Inc., International Business Machines Corp., Itron Inc., Kamstrup AS, Mitsubishi Electric Corp., Oracle Corp., SAP SE, Schneider Electric SE, Siemens AG, TANTALUS SYSTEM HOLDING INC., Tech Mahindra Ltd., Trilliant Holdings Inc., Wipro Ltd., and Xylem Inc..
+Get a detailed analysis on regions, market segments, customer landscape, and companies - Click for the snapshot of this report
+Application (Energy Management System, Distribution Management System, Outage management system, and Data analytics), End-user (Residential, Commercial, and Industrial), and Geography (Europe, APAC, North America, South America, and Middle East and Africa)
+ABB Ltd., Cisco Systems Inc., Eaton Corp. Plc, ENEL X srl, General Electric Co., Globema SP Z O O, Honeywell International Inc., International Business Machines Corp., Itron Inc., Kamstrup AS, Mitsubishi Electric Corp., Oracle Corp., SAP SE, Schneider Electric SE, Siemens AG, TANTALUS SYSTEM HOLDING INC., Tech Mahindra Ltd., Trilliant Holdings Inc., Wipro Ltd., and Xylem Inc.
+The power industry is undergoing a transformation, driven by the need to reduce harmful emissions and the implementation of smart grids. Historically, utility operations focused on controlling power generation, transmission, and distribution. However, smart grids enable two-way communication and the transfer of excess power back into the grid through smart meters. This empowers utility service providers to engage with customers, encouraging energy conservation through demand response programs and real-time energy consumption information. The increasing adoption of energy management devices and consumer engagement is helping utilities reduce peak hour demand and defer infrastructure upgrades. For instance, Fayetteville Public Works Commission (PWC) in the US successfully implemented a home energy management program, saving consumers 15%-20% on electricity usage. Industrial stakeholders, including security system providers, device manufacturers, and energy providers, bring unique strengths to the smart grid IT systems market. While device manufacturers focus on product development, utility service providers have the technical expertise to manage energy systems. Consumers, who adopt smart home devices for comfort and convenience, necessitate increased utility involvement in energy management. These factors are expected to fuel the growth of the global smart grid IT systems market during the forecast period. 
+
+Load-Date: July 28, 2024
+
+
+End of Document
+
+
+
+
+
+
+Nvidia and 5 tech giants now account for 30% of the S&P 500 index
+CE Noticias Financieras English
+May 31, 2024 Friday
+
+
+Copyright 2024 Content Engine, LLC.
+All Rights Reserved
+Copyright 2024 CE Noticias Financieras All Rights Reserved
+Length: 233 words
+Body
+
+
+(Bloomberg) -- The six biggest U.S. companies now command a larger share of the S&P 500 Index than ever before.
+Microsoft Corp, Apple Inc, Nvidia Corp, Alphabet Inc, Amazon.com Inc and Meta Platforms Inc. account for 30% of the benchmark index, up from 26% at the start of the year, according to data compiled by Bloomberg. The S&P 500 is weighted by the market capitalization of stocks.
+The rally has been driven by Nvidia, which has rallied 20% since a bullish sales forecast last week showed spending on artificial intelligence computing remains strong. The chipmaker has added $1.6 trillion in market value this year and is close to overtaking Apple as the world's second most valuable company.
+Large companies have always dominated the S&P 500, but not at this level. For most of the past three decades, the percentage weighting of the six largest stocks in the benchmark index was close to 15%. It was not until 2020 that the concentration exceeded 20%.
+In another sign of a market shift, even at the height of the dot-com bubble in 2000, only three of the six largest were technology companies-Microsoft, Cisco Systems Inc. and Intel Corp. The other three were General Electric Co., Exxon Mobil Corp. and Walmart Inc.
+Original Note: Nvidia and Five Tech Giants Now Command 30% of the S&P 500 Index
+--Contributed by Matt Turner.
+More stories like this are available on bloomberg.com
+©2024 Bloomberg L.P.
+
+Load-Date: June 1, 2024
+
+
+End of Document
+
+
+
+
+
+
+Founders Fund names new leader
+Crain's Detroit Business
+May 6, 2024
+Print Version
+
+
+Copyright 2024 Crain Communications All Rights Reserved
+
+
+Section: Pg. 9; Vol. 40
+Length: 402 words
+Byline: Sherri Welch
+Body
+
+
+Michigan Founders Fund has named Rishi Moudgil, former head of Greenlight Fund Detroit, as its new executive director.
+He succeeds founding executive director Trista Van Tine who left at the end of last year.
+Washington, D.C.-based Nonprofit Professionals Advisory Group LLC led the search.
+Moudgil brings social impact and entrepreneurial experience to the Michigan Founders Fun role. He was the founding executive director of Greenlight Fund Detroit for its first five years before departing nearly a year ago. He led efforts to raise two community investment funds to support an inclusive and scalable approach to locally-led problem-solving designed to improve the lives of families in Detroit.
+The initial $3 million raised through philanthropic and corporate commitments when GreenLight came to Detroit leveraged $8 million or more in commitments from three national groups that have come into the city to work on helping returning citizens get jobs, improving teacher training and retention and boosting young children's reading proficiency and at-home learning. A second fund raised $5 million by the time Moudgil left the organization last year.
+Earlier in his career, Moudgil launched tech and community- based ventures in Southeast Michigan. He also ran the Great Lakes Entrepreneurs Quest, Michigan's first statewide entrepreneurial support program, and founded the University of Michigan's Center for Social Impact at the Ross School of Business.
+"Rishi has a unique and distinct record of successful organization- building and commitment to social impact that perfectly matches the aspirations of MFF, and with his values and his voice to guide the next phase of MFF's growth," said MFF co- founder and chair Dug Song, the co-founder of Duo Security, which sold to Cisco Systems Inc. in 2018 for $2.35 billion.
+Song and Bhushan Kulkarni, who co-founded InfoReady Corp. and in 2021 cybersecurity company SensCy with former Michigan Gov. Rick Snyder, launched MFF in 2019 as an initiative within the Ann Arbor Community Foundation. It spun off in 2021 to become an independent nonprofit platform that provides education and networking for its high-growth company members and serves as a philanthropic vehicle for them and other venture capitalist members.
+Since 2019-20, MFF has grown to more than 150 members and hosted events attracting more than 1,500 attendees, including Michigan Tech Week in 2022 and 2023.
+
+Load-Date: May 9, 2024
+
+
+End of Document
+
+
+
+
+
+
+'Do Nothing' stocks have averaged 14% return
+Tribune-Review (Greensburg, PA)
+May 27, 2024 Monday
+
+
+Copyright 2024 Tribune Review Publishing Company All Rights Reserved
+Section: Tribune-Review Westmoreland
+Length: 741 words
+Byline: by JOHN DORFMAN
+Body
+
+
+Investors often chase stocks that have soared or plunged. They may overlook stocks that have simply held still. 
+But there are sometimes real bargains in stocks that have done nothing for a while. Each May, I write about such stocks. I call them the Do Nothing Club. 
+Over 20 years, my Do Nothing stocks have averaged a one-year return of 14%. That nicely beats the average for the Standard & Poor's 500 Total Return Index over the same periods, which has been 9.9%. 
+I also calculate three-year returns on the Do Nothing stocks. Those have averaged 38%, versus 26.8% for the index. 
+Bear in mind that my column results are hypothetical and shouldn't be confused with results I obtain for clients. Also, past performance doesn't predict the future. 
+Why have these stocks done well? Perhaps stocks that show little price movement cease to be followed closely by investors and analysts. That leaves room for surprises, in some cases pleasant surprises. 
+These results are consistent with a study I commissioned from Mitchell & Co. long ago (when I was a Wall Street Journal reporter). It found that stocks on the new-highs list and stocks on the new-lows list both underperformed. Hurray for the neglected middle. 
+Here are five Do Nothing stocks that look good to me. Each of them has a total return within six percentage points of zero in the 12 months through May 24, and also in the past month. 
+Cisco Systems 
+Cisco Systems Inc. (CSCO) is still the largest computer-networking company in the world, although a variety of companies including Arista Networks Inc. (ANET) and Hewlett Packard Enterprise Co. (HPE) are nipping at its heels. 
+In the 10 years through March 2000, Cisco shares appreciated almost fifty- fold. Alas, those heady days are long gone. But the company has a net profit margin near 22% and a return on stockholders'  equity near 27%. I think it's a good buy at the recent price of about $46. 
+Schlumberger Ltd. 
+If you want to drill an oil well and you need sophisticated seismic data and mapping of hydrocarbon deposits, Schlumberger Ltd. (SLB) is one of the few companies that can help you. It was founded in France and is incorporated in the Netherlands Antilles, but has its headquarters in Houston, Texas. 
+Schlumberger's return on stockholders' equity recently has been a highly respectable 22%. But the stock sells for only 15 times earnings, which is the territory I like as a value investor. 
+Sabine Royalty 
+If you can stand some complication of your tax return, I think Sabine Royalty Trust deserves consideration. It gets income from oil and gas properties in six states (Florida, Louisiana, Mississippi, New Mexico, Oklahoma and Texas), and passes the money to shareholders as dividends. 
+The dividend yield currently is more than 9%, and the five-year dividend growth rate is 20%. If you invest, you will receive a form K-1 each year and hand it over to your tax preparer. 
+Banner 
+Banner Corp. (BANR) is the holding company for Banner Bank, based in Walla Walla, Wash. A poisonous condition for banks is an inverted yield curve -- that is, a situation in which short-term interest rates are higher than long-term ones. That condition has prevailed in the U.S. for nearly two years. 
+I'm starting to look at bank stocks now, because I hope the yield curve will un-invert by the end of this year, if and when the Federal Reserve decides to lower short-term rates. I like this particular bank stock because it sells for less than 10 times earnings and yields more than 4% in dividends. 
+PayPal 
+Over the past decade, PayPal Holdings Inc. (PYPL) has grown its sales by more than 17% a year and earnings at better than a 14% clip. Its return on equity lately has been running at about 19%. 
+With that record of success, I'm a little surprised to find the stock trading at less than 16 times earnings. Over the past decade, its price/earnings multiple has averaged more than 46. 
+Last Year 
+Last year was a satisfying one for my Do Nothing stocks. Collectively, my five picks advanced 44.3%, led by an 80% gain in Photronics Inc. (PLAB). Acuity Brands Inc. (AYI) and Dillard's Inc. (DDS) also did well, rising 68% and 65% respectively. 
+My worst pick was Littelfuse Inc. (LFUS), which lost 2%. Alliance Bernstein LP (AB) was a laggard, rising 9%. For comparison, the Standard & Poor's 500 Total Return Index notched a 30% advance. 
+Disclosure: I own Arista Networks personally and for most of my clients. I own Acuity Brands for one client. 
+
+Load-Date: June 1, 2024
+
+
+End of Document
+
+
+
+
+
+
+AI doesn't feel pain, but investors do so your mission should be to protect yourself
+National Post (f/k/a The Financial Post) (Canada)
+May 27, 2024 Monday
+Web Edition
+
+
+Copyright 2024 National Post All Rights Reserved
+Section: INVESTOR
+Length: 1068 words
+Byline: Martin Pelletier, Martin Pelletier
+Body
+
+
+One of my favourite all-time sci-fi movies is The Terminator, in which the artificial-general-super-intelligence Skynet system takes over the world by turning against its creator - humanity.
+I like it for the same reasons as I do The Matrix, given they both have deeply rooted philosophical questions about creation, the nature of reality itself and our struggle to manage the conflict between our internal self and the external world.
+Fast forward to today, and artificial intelligence( https://financialpost.com/tag/artificial-intelligence/ ) is now a real thing and growing exponentially. There are going to be all kinds of societal implications, both good and bad, and the anxiety that comes with the uncertainty of what lies ahead.
+Then there are the profound market implications that we're already starting to witness. For example, like Cyberdyne Systems, Skynet's world-conquering creator, we have Nvidia Corp.( https://financialpost.com/tag/nvidia-corp/ ), which is taking the investment world by storm.
+Nvidia's market cap is now larger than the gross domestic product (GDP) of every country in the world except seven, according to a Kobeissi Letter post on X( https://x.com/KobeissiLetter/status/1793629009361674313 ), formerly known as Twitter. It's the same size as the combined GDP of Spain and Saudi Arabia, the combined GDP of every U.S. state except California and Texas, and Russia's entire GDP plus US$300 billion in cash.
+Nvidia, $NVDA( https://twitter.com/search?q=%24NVDA&;src=ctag&;ref_src=twsrc%5Etfw ), is now larger than:
+1. GDP of every country in the world except 7
+2. GDP of Spain and Saudi Arabia COMBINED
+3. 4x the market cap of Tesla
+4. 7x the market cap of Costco
+5. The market cap of Walmart and Amazon COMBINED
+6. Russia's entire GDP plus $300 billion in...
+- The Kobeissi Letter (@KobeissiLetter) May 23, 2024( https://twitter.com/KobeissiLetter/status/1793629009361674313?ref_src=twsrc%5Etfw )
+Its market cap is also four times the market cap of Tesla Inc., seven times that of Costco Wholesale Corp., the entire market cap of Walmart Inc. and Amazon.com Inc. combined, nine times bigger than competitor Advanced Micro Devices Inc., 17 times Goldman Sachs Group Inc. and larger than the entire German stock market.
+Therefore, it is no doubt having an outsized influence on the broader United States equity market, especially for passive investors. Nvidia is now the third-largest company in the S&;P 500, comprising more than 5.25 per cent of the index, but add in Microsoft Corp., Apple Inc., Alphabet Inc. and Meta Platforms Inc. and these five megacap tech companies( https://financialpost.com/tag/technology-stocks/ ) account for a whopping 27 per cent of the index - a level not seen since the dot-com bubble in 1999.
+In the meantime, I see many very smart and well-respected pundits posting these wonderful 100-year log charts of the S&;P 500 and how you can make a lot of money by simply staying invested, so there is little need to worry about concentration risks.
+That said, what most are missing is the risk of getting the timing wrong on the entry point or, worse, reacting to the extreme market volatility that comes with passively owning the market.
+For example, take a look at what happened if you bought into the internet-economy hype back in 1999 and did so via the S&;P 500. Over the next decade, you made a paltry annualized 1.7 per cent return, but experienced a 51 per cent drawdown. The best annual return was 31 per cent and the worst annual return was 37 per cent.
+Assuming you had the fortitude to weather such tremendous volatility and held on for another decade, your annual return would have improved to seven per cent.
+Now, let's say you invested in Cisco Systems Inc.( https://financialpost.com/tag/cisco-systems-inc/ ), the go-to company to own in the tech sector, in 1999. For the next decade, you made an annualized return of 0.3 per cent with a whopping 86 per cent drawdown and 41 per cent annualized standard deviation. However, if you held for another decade, the annual return would have been boosted to an annualized 15 per cent.
+The big question is: How many of you out there have a 20-year-plus investment horizon and how would you feel about experiencing a Skynet nuclear bomb hitting your portfolio with a 50 per cent drawdown on your entire life's savings?
+I am not saying this is going to happen, but it certainly isn't a non-zero event based on history. Therefore, it might be prudent to exercise some caution and not get mesmerized by those long-dated S&;P 500 charts everyone is showing, especially for those in their 50s or older, just in case you get the timing wrong.
+For those already fully invested, maybe take some profits and reinvest them in some alternative strategies or at least put in some low-cost insurance to protect the gains already made. This could include buffered equity strategies and structured notes that we have found very effective in our goals-based investing approach.
+Short-term gains can leave you open to the hawks circling above( https://financialpost.com/investing/short-term-investing-gains-vulnerable )
+Here's why investors should add protection to their portfolios( https://financialpost.com/investing/declining-canadian-economy-dollar-investors-protection-portfolios )
+Or perhaps it's helpful to listen to Kyle Reese, who famously said in The Terminator: "Cyborgs don't feel pain. I do."
+Martin Pelletier, CFA, is a senior portfolio manager at Wellington-Altus Private Counsel Inc., operating as TriVest Wealth Counsel, a private client and institutional investment firm specializing in discretionary risk-managed portfolios, investment audit/oversight and advanced tax, estate and wealth planning. The opinions expressed are not necessarily those of Wellington-Altus.
+_____________________________________________________________
+If you like this story, sign up for( https://newsletters.financialpost.com/?utm_source=on-net&;utm_medium=display&;utm_campaign=fp_newsletters&;utm_content=fp_newsletters_all_homepage_banner ) the FP Investor Newsletter.
+_____________________________________________________________
+Bookmark our website and support our journalism: Don't miss the business news you need to know - add financialpost.com( https://financialpost.com/ ) to your bookmarks and sign up for our newsletters here( https://financialpost.com/newsletters/ ). !@COPYRIGHT=© 2024 Postmedia Network Inc. All rights reserved.
+
+Load-Date: May 27, 2024
+
+
+End of Document
+
+
+
+
+
+
+Startup Cohere finds success in simplicity; Company valued at $5.5B in new funding round
+The Toronto Star
+July 23, 2024 Tuesday
+ONT Edition
+
+
+Copyright 2024 Toronto Star Newspapers Ltd. All Rights Reserved
+Section: BUSINESS; Pg. B2
+Length: 532 words
+Byline: Rachel Metz and Aimee Look Bloomberg
+Body
+
+
+ Artificial intelligence startup Cohere Inc. is now one of the world's most valuable artificial intelligence companies, and one of the largest startups in Canada.
+But unlike some of its Silicon Valley competitors, it's not particularly flashy.
+In a new funding round, Cohere was valued at $5.5 billion (U.S.), vaulting it to the upper echelons of global startups. It landed there without a consumer app that writes poems, draws pictures or helps with homework. 
+Instead, Toronto-based Cohere makes large language models - software trained on massive swaths of the internet to analyze and generate text - and customizes them for businesses. Its software has attracted hundreds of customers such as Notion Labs Inc. and Oracle Inc. (also an investor), which use the startup's technology to do things like help write website copy, communicate with users and add generative AI to their own products.
+Cohere has also attracted investors. The company has raised $500 million in a Series D funding, it announced Monday. The round was led by Canadian pension investment manager PSP Investments, alongside a syndicate of additional new backers including investors at Cisco Systems Inc., Japan's Fujitsu, chipmaker Advanced Micro Devices Inc.'s AMD Ventures and Canada's export credit agency EDC. 
+The fresh financing more than doubles the startup's valuation from last year, when Cohere raised $270 million in a round led by Montreal-based Inovia Capital, and brings its total cash haul to $970 million. The round has also coincided with an increasingly competitive landscape for venture funding, even in the closely watched world of AI. Reuters previously reported some details of the deal.
+Cohere is one of only a handful of startups building massive large language models from scratch, partly because the technology is extremely expensive and difficult to construct. Competitors include the likes of OpenAI, Anthropic and Google. OpenAI in particular has said its goals are wildly ambitious - attempting to build artificial general intelligence, or AGI, meaning AI software capable of performing as well as (or better than) humans at most tasks.
+Cohere is instead pursuing the immediately practical goal of making software to help companies run more efficiently. 
+"We're not out there chasing AGI," said Nick Frosst, one of the company's three co-founders. "We're trying to make models that can be efficiently run in an enterprise to solve real problems."
+Started in 2019, Cohere is led by co-founder Aidan Gomez, a genuine celebrity in the world of artificial intelligence. Gomez is one of the authors of the seminal research paper "Attention Is All You Need," which led to advances in the ways computers analyze and generate text. Gomez, Frosst and co-founder Ivan Zhang, have built the company rapidly in the years since. 
+Today, Cohere has customers across a wide range of industries. They include banks, tech companies and retailers. One luxury consumer brand is using a virtual shopping tool Cohere built to help workers suggest products to customers. Toronto-Dominion Bank, a new customer, will use Cohere's AI for tasks such as answering questions based on financial documents, Frosst said.
+Bloomberg 
+
+Load-Date: July 23, 2024
+
+
+End of Document
+
+
+
+
+
+
+Demand Response (DR) Market size is to grow by USD 2.90 billion from 2023 to 2028, Technavio
+RWE Resources News
+March 28, 2024 Thursday
+
+
+Copyright 2024 News Bites Pty Ltd. All Rights Reserved
+
+
+Length: 488 words
+Body
+
+
+Thursday - March 28: (RWE) - The demand response (DR) market is set to witness substantial growth in the coming years, driven by advancements in technology and regulatory initiatives. With a forecasted increase of USD 2.90 billion between 2023 and 2028, the market is estimated to grow at a CAGR of 8.01%. This growth is attributed to various factors, including the emerging concept of the internet of things (IoT), increased generation of electricity from clean energy sources, and the advent of data-driven demand response solutions.
+The report offers an up-to-date analysis of the market, and to know the exact growth variance and the Y-O-Y growth rate, Request a Free Sample Report.
+Market Trends: A significant trend shaping the DR market is the increased generation of electricity from clean energy sources. Governments worldwide are imposing regulations to boost the percentage of energy generated from renewable sources, driving utilities to offer incentives for consumers to invest in clean energy solutions. This trend opens avenues for consumers to become energy producers, fostering the adoption of DR programs and solutions.
+Largest-Growing Segments: The hardware and software segment emerges as the fastest-growing segment in the DR market. With advancements in technology, hardware- and software-based DR systems offer enhanced capabilities, empowering end-users to manage energy consumption efficiently. IoT implementation further fuels this segment's growth, providing opportunities for sophisticated solutions in industrial and commercial sectors.
+Regional Analysis: North America dominates the DR market, contributing 60% to global growth. The US and Canada lead the region, driven by awareness among end-users about the benefits of DR programs and initiatives. Government support and collaboration between utility companies and DR aggregators further propel market growth in North America.
+Key Drivers and Challenges: The increasing gap between electricity supply and demand serves as a key driver for market growth. Urbanization and population growth elevate the need for electricity, necessitating tools like DR to maintain reliability in energy systems. However, the growing threat of hacking poses a significant challenge to market expansion, highlighting the importance of stringent security measures in DR solutions.
+Customer Landscape: The market research report covers the adoption lifecycle of DR solutions, offering insights into adoption rates and key purchase criteria across regions. Companies can leverage this information to develop effective growth strategies tailored to customer needs.
+Major Market Players: Leading companies in the DR market include ABB Ltd., ALSTOM SA, Cisco Systems Inc., and Honeywell International Inc., among others. These companies employ various strategies such as strategic alliances and product launches to enhance their market presence and meet evolving customer demands.
+
+Load-Date: March 29, 2024
+
+
+End of Document
+
+
+
+
+
+
+30-30 Club becomes more exclusive
+Tribune-Review (Greensburg, PA)
+April 8, 2024 Monday
+
+
+Copyright 2024 Tribune Review Publishing Company All Rights Reserved
+Section: Tribune-Review Westmoreland
+Length: 778 words
+Byline: By JOHN DORFMAN
+Body
+
+
+My 30-30 Club has gotten even more exclusive. This is an honor roll for corporations, named after the 30-30 Club in baseball. 
+The baseball version is for players who have hit 30 home runs and stolen 30 bases in the same season. Willy Mays, Barry Bonds and Mike Trout leap to mind. 
+My version is for corporations. To make this roster, a company has to grow its profits at a 30% clip for five years, and achieve a 30% return on stockholders' equity. 
+This year only 27 companies made the cut, down from 38 a year ago and 47 the year before. Pretty soon, the club will need a red velvet rope to keep out the riff-raff. 
+All these companies deserve to be honored. But some of their stocks are expensive. Others carry more debt than I like. Each year, I recommend only a few of the qualifying stocks. This year I recommend five of them. 
+Cisco Systems 
+Cisco Systems Inc. (CSCO), based in San Jose, Calif., is a leading player in the computer-networking market. The stock has fared poorly in the stock market for the past five years, even while the company's sales and earnings increased. The company has been profitable 22 years in a row. 
+ON Semiconductor 
+Specializing in computer chips for cars, ON Semiconductor Corp. (ON) has increased its profits by 44% a year in the past five years. Growth flagged last year, but profits were still impressive. The stock sells for 14 times earnings, while the median large-cap stock sells for a multiple of about 24. 
+Axcelis 
+While ON makes chips, Axcelis Technologies Inc. (ACLS) makes equipment used in making chips. One of its main products is ion implantation equipment, which fine-tunes the electrical conductivity properties of parts of the silicon in the chip. This stock can also be had for 14 times earnings. 
+Atkore 
+Atkore Inc. (ATKR), based in Harvey, Ill., is a mid- sized industrial company that makes electric conduit, fittings and cables. It also slits and cuts structural steel sheets. 
+While the five-year numbers are strong, last year was weak--which is why the stock goes for only 11 times earnings. 
+Builders FirstSource 
+I think there is a lot of pent-up demand in the United States for single-family homes. Mortgage rates, recently an obstacle to home ownership, may come down a bit in the second half of this year. So I like Builders FirstSource Inc. (GLDR), which supplies things like wall panels, stairs and frames. 
+Honor roll 
+The other 22 members of the 30-30 Club deserve to be honored, whether I happen to like their stocks or not. 
+The largest are Deere & Co. (DE), Chipotle Mexican Grill Inc. (CMG), Autodesk Inc. (ADSK), Microchip Technology Inc. (MCHP) and First Citizens BancShares Inc. (FCNCA). 
+Other large companies that qualify are Deckers Outdoor Corp. (DECK), Williams-Sonoma Inc. (WSM), Dick's Sporting Goods Inc. (DKS), Medpace Holdings Inc. (MEDP), Insulet Corp. (PODD), Kinsale Capital Group Inc. (KNSL) and Lattice Semiconductor Corp. (LSCC). 
+In the mid-size range we have Murphy USA Inc. (MUSA), AutoNation Inc. (AN), Boyd Gaming Corp. (BYD), Sunoco LP (SUN), Herc Holdings Inc. (HRI), InterDigital Inc. (IDCC) and PJT Partners Inc. (PJT). Only companies with a market value of $2 billion or more were eligible for consideration. 
+Previous picks 
+A year ago I recommended five of the 30-30 stocks: Merck & Co. (MRK), Nucor Corp. (NUE), Encore Wire (WIRE), Super Micro Computer Inc. (SMCI) and Coterra Energy Inc. (CTRA). 
+Collectively, these five stocks rose 185% from April 10, 2023, through April 5, 2024, thanks to a 789% gain in Super Micro, which rode a wave of investor mania about artificial intelligence. 
+Encore Wire advanced 67% and Nucor returned 38%, both beating the Standard & Poor's 500 Total Return Index at 29%. Trailing the index were Merck (up 17%) and Coterra (up 14%). 
+Of the five stocks I chose last year, only Super Micro returns to the 30-30 list this year. After the stock's huge gain, it's too expensive for me at 74 times recent earnings. But my wife, Katharine Davidge, who is a portfolio manager at my firm, owns it personally and for some clients. 
+Full record 
+I've written about the 30-30 Club most years since 1999. My 19 sets of recommendations have averaged a 19.1% return (including dividends) over 12 months. The Standard & Poor's 500 Total Return Index has averaged 8.7% over the same periods. 
+My picks have beaten the S&P 500 12 years out of 19, with 12 profits and seven losses.  
+Bear in mind that my column results are hypothetical and shouldn't be confused with results I obtain for clients. Also, past performance doesn't predict the future. 
+Disclosure: I own Merck personally and for most of my clients. I own Encore Wire and Nucor personally and for some clients. 
+
+Load-Date: April 13, 2024
+
+
+End of Document
+
+
+
+
+
+
+UMich introduces Duo Universal Prompt
+Michigan Daily: University of Michigan-Ann Arbor
+February 20, 2024 Tuesday
+
+
+University Wire
+Copyright 2024 UWIRE via U-Wire All Rights Reserved
+Section: NEWS-; Pg. 1
+Length: 678 words
+Byline: Emma Spring
+Body
+
+
+The University Insider is The Daily's first faculty and staff-oriented newsletter. This weekly newsletter will give U-M faculty and staff the ability to see the most important issues on campus and in Ann Arbor - particularly those related to administrative decisions - from the perspective of an independent news organization. It will also provide a better understanding of student perspectives.
+Subscribe
+Processing...
+Success! You're on the list.
+Whoops! There was an error and we couldn't process your subscription. Please reload the page and try again.
+Users logging into any University of Michigan website Tuesday were greeted with a revamped pop-up screen for two-factor authentication as the University transitioned to the Duo Universal Prompt, a move mandated by Cisco Security. The Duo Universal Prompt, introduced by Cisco Duo, brings several changes to the authentication experience.
+Cisco Duo, a two-step verification system provider, was founded in 2010 by U-M alumni Dug Song and Jon Oberheide. Cisco Systems, Inc. acquired Duo in a $2.35 billion deal in 2018.
+Ravi Pendse, the University's vice president for information technology and chief information officer, wrote in an email to The Michigan Daily that the University is committed to ensuring online safety and security.
+"The University of Michigan was an early higher education adopter of multi-factor and two-factor authentication and had this capability for years, before moving to Duo in 2016," Pendse wrote. "Now used by banks, social media companies, shopping sites, and many more organizations, multi-factor and two-factor authentication have become a standard, best practice security tool."
+With the new update, the system remembers the user's last-used authentication method, streamlining the login process and eliminating the need for users to manually select their preferred option. Text messages sent during authentication now include only one passcode, and the URL of the web page displaying the Duo prompt has shifted from weblogin.umich.edu to duosecurity.com.
+Public Policy senior Ayden Makar said he believes the Duo update is not enough to ensure data privacy for the U-M community, citing the August 2023 data incident.
+"The Duo screen before looked a little clunky; this appears to be more modern," Makar said. "I understand and appreciate the use of two-factor authentication, but it's not a foolproof system. As we saw at the start of the fall semester, even with Duo, unauthorized parties were still able to access the U-M system. I think it's a useful security tool overall but it's limited to login use, which is just one aspect of security."
+Cisco Security declined to comment on the U-M updates to two-factor authentication.
+In an email to The Daily, Sol Bermann, U-M executive director of information assurance and chief information security officer, wrote that the transition to the Duo Universal Prompt also supports a broader range of languages and hardware security keys, aligning with the University's commitment to enhancing security and user experience.
+"These enhancements align with ITS' mission to provide innovative, reliable, secure user-centric technology services and support for the U-M community," Bermann wrote.
+The update comes as part of a global initiative by Duo to enhance security measures, with a total discontinuation of their traditional prompt starting March 30, 2024. Other educational institutions have undergone this same transition over the past few months, including the University of Wisconsin-Madison, Cornell University and James Madison University, as the deadline approaches.
+Bermann also wrote that this update will not exhibit any change in data security at the University in his email.
+"There is no change to the security that Duo provides," Bermann wrote. "As is the case with any application, user interfaces and experiences are updated over time. The change to Universal Prompt provides a simplified and accessible Duo login experience featuring a redesigned visual interface." 
+Daily Staff Reporter Emma Spring can be reached at sprinemm@umich.edu
+
+Load-Date: February 20, 2024
+
+
+End of Document
+
+
+
+
+
+
+Centenary printer manufacturer HP invests in artificial intelligence by buying Juniper
+CE Noticias Financieras English
+January 10, 2024 Wednesday
+
+
+Copyright 2024 Content Engine, LLC.
+All Rights Reserved
+Copyright 2024 CE Noticias Financieras All Rights Reserved
+Length: 540 words
+Body
+
+
+Hewlett Packard Enterprise (HPE), the cloud computing division of the group best known in Brazil for its HP printers, is to buy Juniper, which produces network devices such as routers and switches and also owns an artificial intelligence (AI) operation known as Mist AI, for US$ 14 billion.
+The announcement was made on Tuesday evening. The amount, to be paid in cash, represents a 32% premium on Juniper's current share price.
+If on the one hand the deal shows HPE's commitment to a new business front and also to AI, on the other hand it was met with skepticism by market analysts given the amount paid: $14 billion represents no less than half of HPE's market value on the stock exchange today.
+Networking technology, which directs the flow of information between devices and over the internet, will be HPE's new core, said the company's CEO, Antonio Neri, in an interview after the deal was announced. This business line will double in size once the deal is completed, the company stated.
+HPE said it will finance the purchase with loans. "The companies expect the acquisition, which has been approved by both boards, to be completed by the end of this year or in early 2025."
+Since splitting Hewlett-Packard into two units in 2015 (one division was left with manufacturing hardware and data centers and the other with cloud services), HPE has focused on expanding profitable business lines, such as selling high-powered computing and remote storage.
+However, the company has struggled to grow, with its business advancing by less than 2% in recent years.
+Juniper, like its great rival Cisco Systems Inc., manufactures networking devices such as routers and switches. The HPE-Juniper combination will disrupt the industry, as "there was only one major supplier," said Neri, referring to Cisco.
+- Today we are really creating a second option, a much more modern option that customers were looking for.
+MORE ON ARTIFICIAL INTELLIGENCE Taylor Swift selling pot? Cloning the singer shows how AI has created a new era of 'fake' adsPartnership between Microsoft and OpenAI could be the target of EU investigation
+Like much of the technology industry, Juniper highlighted the potential of new artificial intelligence services to drive growth. Together, the companies will excel in building data centers and running networks for AI-enabled operations, Juniper CEO Rami Rahim said in an interview.
+Rahim will lead the combined networking business and report to Neri after the deal closes, the companies said.
+The deal marks the first major technology transaction of 2024, following the worst year for mergers and acquisitions since 2013. After global deals hit a record $3.82 trillion in 2021, they fell to $2.17 trillion last year, according to data compiled by Bloomberg.
+In anticipation of the takeover announcement, HPE shares closed down 8.9% on Tuesday, their worst performance since May 2020.
+Some analysts questioned the possible acquisition, saying that HPE's purchase of an older technology company like Juniper could complicate its growth initiatives. Others pointed to the risks of an increase in debt or of offering overlapping product lines that could confuse customers
+NextInvestments in startups fall 57% in Brazil in 2023, worst result since 2018
+
+Load-Date: January 11, 2024
+
+
+End of Document

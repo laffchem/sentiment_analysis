@@ -1,0 +1,293 @@
+
+User Name: = 
+Date and Time: = 2024-11-25
+Job Number: = 239401193
+
+Documents (10)
+Client/Matter: -None-
+Search Terms: Amgen Inc and publication-type(Newspapers)
+Search Type: Boolean
+Content Type|Narrowed by|
+news|Language: English Timeline: Jan 01, 2024 to Jul 31, 2024 Geography News: North America Subject: Business News |
+
+1. Intellectual Property India Publishes Patent Application for 'Cyclobutyl Dihydroquinoline Sulfonamide Compounds' Filed by Amgen Inc.
+
+2. Intellectual Property India Publishes Patent Application for 'Antigen Binding Domain With Reduced Clipping Rate' Filed by Amgen Inc. ; and Amgen Research (MUNICH) Gmbh
+
+3. Intellectual Property India Publishes Patent Application for 'Selecting Resins For Use In Chromatography Purification Processes' Filed by Amgen Inc.
+
+4. Intellectual Property India Publishes Patent Application for 'Monitoring Vial Conditions During A Lyophilization Process' Filed by Amgen Inc.
+
+5. Intellectual Property India Publishes Patent Application for 'Antibody Formulations' Filed by Amgen Inc.
+
+6. Intellectual Property India Publishes Patent Application for 'Methods Of Treating Heart Failure By Administering Omecamtiv Mecarbil' Filed by Amgen Inc. ; and Cytokinetics, Inc.
+
+7. Intellectual Property India Publishes Patent Application for 'Method Of Making Lyophilized Protein Formulations' Filed by Amgen Inc.
+
+8. Intellectual Property India Publishes Patent Application for 'Synthesis Of Omecamtiv Mecarbil' Filed by Amgen Inc.
+
+9. Intellectual Property India Publishes Patent Application for 'Synthesis Of Omecamtiv Mecarbil' Filed by Amgen Inc.
+
+10. Intellectual Property India Publishes Patent Application for 'Rnai Constructs For Inhibiting Hsd17b13 Expression And Methods Of Use Thereof' Filed by Amgen Inc.
+
+
+
+
+
+
+
+
+Intellectual Property India Publishes Patent Application for 'Cyclobutyl Dihydroquinoline Sulfonamide Compounds' Filed by Amgen Inc.
+IPR
+February 16, 2024 Friday 7:06 PM  EST
+
+
+Copyright 2024 HT Media Ltd. All Rights Reserved
+
+
+Length: 227 words
+Dateline: MUMBAI, India 
+Body
+
+
+MUMBAI, India, Feb. 16 -- Intellectual Property India has published a patent application (202217075762 A) filed by Amgen Inc., Thousand Oaks, U.S.A., on Dec. 27, 2022, for 'cyclobutyl dihydroquinoline sulfonamide compounds.'
+Inventor(s) include Milgram, Benjamin C.; Marx, Isaac E.; Wang, Haoxuan; and Cherney, Alan H. The application for the patent was published on Feb. 16, under issue no. 07/2024. According to the abstract released by the Intellectual Property India: "The present invention provides a cyclobutyl dihydroquinoline sulfonamide compound of Formula (I), an enantiomer, diastereoisomer, atropisomer thereof, a mixture thereof, or a pharmaceutically acceptable salt thereof, that inhibits voltage-gated sodium channels, in particular Nav1.7. The compounds are useful for the treatment of diseases associated with the activity of sodium channels such as pain disorders, cough, and itch. Also provided are pharmaceutical compositions containing the compounds of the present invention. Also further provided is an atropi-selective preparation of said compounds of Formula (I), and intermediate thereof." The patent application was internationally filed on June 10, 2021, under International application No.PCT/US2021/036896. For any query with respect to this article or any other content requirement, please contact Editor at contentservices@htlive.com
+
+Load-Date: March 20, 2024
+
+
+End of Document
+
+
+
+
+
+
+Intellectual Property India Publishes Patent Application for 'Antigen Binding Domain With Reduced Clipping Rate' Filed by Amgen Inc.; and Amgen Research (MUNICH) Gmbh
+IPR
+July 19, 2024 Friday 7:18 PM  EST
+
+
+Copyright 2024 HT Media Ltd. All Rights Reserved
+
+
+Length: 319 words
+Dateline: MUMBAI, India 
+Body
+
+
+MUMBAI, India, July 19 -- Intellectual Property India has published a patent application (202317032466 A) filed by Amgen Inc.; and Amgen Research (MUNICH) Gmbh, Thousand Oaks, U.S.A., on May 8, 2023, for 'antigen binding domain with reduced clipping rate.'
+Inventor(s) include Brozy, Johannes; Muenz, Markus; and Dykstra, Andrew. The application for the patent was published on July 19, under issue no. 29/2024. According to the abstract released by the Intellectual Property India: "The invention relates to a polypeptide or polypeptide construct comprising a first target antigen binding domain, wherein said first target antigen binding domain comprises a VH and a VL variable region linked by a peptide linker, wherein the peptide linker comprises or consists of S(G4X)n or (G4X)n, wherein X is selected from the group consisting of Q, T, N, C, G, A, V, I, L, and M, and wherein n is an integer selected from integers 1 to 20. The invention also relates to a method for improving stability of a polypeptide or polypeptide construct. Moreover, the invention relates to a polynucleotide encoding the polypeptide or polypeptide construct of the invention, a vector comprising said polynucleotide and a host cell transformed or transfected with said polynucleotide or with said vector. Moreover, the invention also provides for a process for the production of said polypeptide or polypeptide construct and a pharmaceutical composition comprising said polypeptide or polypeptide construct of the invention. Furthermore, the invention relates to medical uses of said polypeptide or polypeptide construct and kits comprising said polypeptide or polypeptide construct." The patent application was internationally filed on Nov. 08, 2021, under International application No.PCT/EP2021/080880. For any query with respect to this article or any other content requirement, please contact Editor at contentservices@htdigital.in
+
+Load-Date: July 31, 2024
+
+
+End of Document
+
+
+
+
+
+
+Intellectual Property India Publishes Patent Application for 'Selecting Resins For Use In Chromatography Purification Processes' Filed by Amgen Inc.
+IPR
+April 12, 2024 Friday 7:12 PM  EST
+
+
+Copyright 2024 HT Media Ltd. All Rights Reserved
+
+
+Length: 273 words
+Dateline: MUMBAI, India 
+Body
+
+
+MUMBAI, India, April 12 -- Intellectual Property India has published a patent application (202317003417 A) filed by Amgen Inc., Thousand Oaks, U.S.A., on Jan. 17, 2023, for 'selecting resins for use in chromatography purification processes.'
+Inventor(s) include Nogueras, Hector; Coufal, Myra; and Soto-Ortega, Deborah. The application for the patent was published on April 12, under issue no. 15/2024. According to the abstract released by the Intellectual Property India: "A method of selecting raw materials for use in a column chromatography purification process in which, for each of one or more candidate resins, a respective set of resin attribute values is received, including at least one analytical measurement of the candidate resin. The method also includes, for each candidate resin, predicting a respective value of a performance indicator for the column chromatography purification process by applying the respective set of resin attribute values, and possibly other parameter values (e.g., harvest filtrate and/or purification process parameters) as inputs to a multivariate statistical model. The method further includes selecting a resin of the one or more candidate resins based at least in part on the predicted respective value(s) of the performance indicator, and performing the column chromatography purification process using the selected resin as a stationary phase." The patent application was internationally filed on July 16, 2021, under International application No.PCT/US2021/041973. For any query with respect to this article or any other content requirement, please contact Editor at contentservices@htdigital.in
+
+Load-Date: May 2, 2024
+
+
+End of Document
+
+
+
+
+
+
+Intellectual Property India Publishes Patent Application for 'Monitoring Vial Conditions During A Lyophilization Process' Filed by Amgen Inc.
+IPR
+February 16, 2024 Friday 7:06 PM  EST
+
+
+Copyright 2024 HT Media Ltd. All Rights Reserved
+
+
+Length: 293 words
+Dateline: MUMBAI, India 
+Body
+
+
+MUMBAI, India, Feb. 16 -- Intellectual Property India has published a patent application (202217068354 A) filed by Amgen Inc., Thousand Oaks, U.S.A., on Nov. 28, 2022, for 'monitoring vial conditions during a lyophilization process.'
+Inventor(s) include Garvin Christopher Jon; Schlegel Fabrice; Scalzo Gioval; Bambury Colm; Bac Deniz; and Ruitberg Christian. The application for the patent was published on Feb. 16, under issue no. 07/2024. According to the abstract released by the Intellectual Property India: "A method of facilitating real-time monitoring of conditions within a vial during a lyophilization process occurring within a lyophilization chamber includes, for each of a plurality of time intervals during the lyophilization process, determining current values of temperature and pressure within the lyophilization chamber and, after each time interval, determining current values of one or more conditions within the vial. Determining the current values of the condition(s) within the vial includes applying those current values as inputs to a heat and mass transfer balance model and solving for a current value of a temperature within the vial (and possibly water removed from or remaining within the product). The method also includes causing a display device to display the current value(s) of the condition(s) within the vial to a user, and/or controlling the temperature and/or pressure within the lyophilization chamber based on the current value(s) of the condition(s) within the vial." The patent application was internationally filed on May 11, 2021, under International application No.PCT/US2021/031713. For any query with respect to this article or any other content requirement, please contact Editor at contentservices@htlive.com
+
+Load-Date: March 19, 2024
+
+
+End of Document
+
+
+
+
+
+
+Intellectual Property India Publishes Patent Application for 'Antibody Formulations' Filed by Amgen Inc.
+IPR
+March 15, 2024 Friday 5:33 PM  EST
+
+
+Copyright 2024 HT Media Ltd. All Rights Reserved
+
+
+Length: 180 words
+Dateline: MUMBAI, India 
+Body
+
+
+MUMBAI, India, March 15 -- Intellectual Property India has published a patent application (202417014697 A) filed by Amgen Inc., Thousand Oaks, U.S.A., on Feb. 28, for 'antibody formulations.'
+Inventor(s) include Ball, Nicole; Sloey, Christopher; Lueras, Alexis; and Qian, Rulin. The application for the patent was published on March 15, under issue no. 11/2024. According to the abstract released by the Intellectual Property India: "Provided herein are liquid compositions comprising a high concentration of a monoclonal antibody, e.g., greater than about 100 mg/mL, which demonstrate storage -stability and reduced viscosity. In exemplary embodiments, the liquid composition comprises about less than about 400 mM arginine glutamate, and, in alternative exemplary embodiments, the liquid composition comprises proline and a buffer." The patent application was internationally filed on Aug. 11, 2022, under International application No.PCT/US2022/040056. For any query with respect to this article or any other content requirement, please contact Editor at contentservices@htlive.com
+
+Load-Date: April 3, 2024
+
+
+End of Document
+
+
+
+
+
+
+Intellectual Property India Publishes Patent Application for 'Methods Of Treating Heart Failure By Administering Omecamtiv Mecarbil' Filed by Amgen Inc.; and Cytokinetics, Inc.
+IPR
+July 5, 2024 Friday 6:55 PM  EST
+
+
+Copyright 2024 HT Media Ltd. All Rights Reserved
+
+
+Length: 164 words
+Dateline: MUMBAI, India 
+Body
+
+
+MUMBAI, India, July 5 -- Intellectual Property India has published a patent application (202317037848 A) filed by Amgen Inc.; and Cytokinetics, Inc., Thousand Oaks, U.S.A., on June 1, 2023, for 'methods of treating heart failure by administering omecamtiv mecarbil.'
+Inventor(s) include Honarpour, Narimon; and Malik, Fady. The application for the patent was published on July 5, under issue no. 27/2024. According to the abstract released by the Intellectual Property India: "Provided herein are methods of treating heart failure in patients exhibiting one or more additional features, comprising administering to the patient a therapeutically effective amount of omecamtiv mecarbil, or a hydrate, salt, or salt of a hydrate thereof." The patent application was internationally filed on Nov. 11, 2021, under International application No.PCT/US2021/058988. For any query with respect to this article or any other content requirement, please contact Editor at contentservices@htdigital.in
+
+Load-Date: July 23, 2024
+
+
+End of Document
+
+
+
+
+
+
+Intellectual Property India Publishes Patent Application for 'Method Of Making Lyophilized Protein Formulations' Filed by Amgen Inc.
+IPR
+April 12, 2024 Friday 7:12 PM  EST
+
+
+Copyright 2024 HT Media Ltd. All Rights Reserved
+
+
+Length: 155 words
+Dateline: MUMBAI, India 
+Body
+
+
+MUMBAI, India, April 12 -- Intellectual Property India has published a patent application (202317007905 A) filed by Amgen Inc., Thousand Oaks, U.S.A., on Feb. 7, 2023, for 'method of making lyophilized protein formulations.'
+Inventor(s) include Mcauley, Arnold; Treuheit, Michael, J.; Christian, Twinkle, R.; and Jagannathan, Bharadwaj. The application for the patent was published on April 12, under issue no. 15/2024. According to the abstract released by the Intellectual Property India: "Disclosed herein are methods of preparing lyophilized formulations comprising a protein, such as an antibody or a bispecific antibody construct, that exhibits improved storage stability." The patent application was internationally filed on Sept. 14, 2021, under International application No.PCT/US2021/050238. For any query with respect to this article or any other content requirement, please contact Editor at contentservices@htdigital.in
+
+Load-Date: May 2, 2024
+
+
+End of Document
+
+
+
+
+
+
+Intellectual Property India Publishes Patent Application for 'Synthesis Of Omecamtiv Mecarbil' Filed by Amgen Inc.
+IPR
+January 26, 2024 Friday 8:06 PM  EST
+
+
+Copyright 2024 HT Media Ltd. All Rights Reserved
+
+
+Length: 149 words
+Dateline: MUMBAI, India 
+Body
+
+
+MUMBAI, India, Jan. 26 -- Intellectual Property India has published a patent application (202218000450 A) filed by Amgen Inc., Thousand Oaks, U.S.A., on Jan. 4, 2022, for 'synthesis of omecamtiv mecarbil.'
+Inventor(s) include Caille, Sebastien; Quasdorf, Kyle; Roosen, Philipp; Shi, Xianqing; Cosbie, Andrew; Wang, Fang; Wu, Zufan; Neergunda, Archana; Quan, Bin, Peter; and Guan, Lianxiu. The application for the patent was published on Jan. 26, under issue no. 04/2024. According to the abstract released by the Intellectual Property India: "Provided herein is a synthesis for omecamtiv mecarbil dihydrochloride hydrate and various intermediates." The patent application was internationally filed on June 29, 2018, under International application No.PCT/US2018/040176. For any query with respect to this article or any other content requirement, please contact Editor at contentservices@htlive.com
+
+Load-Date: February 23, 2024
+
+
+End of Document
+
+
+
+
+
+
+Intellectual Property India Publishes Patent Application for 'Synthesis Of Omecamtiv Mecarbil' Filed by Amgen Inc.
+IPR
+January 26, 2024 Friday 8:06 PM  EST
+
+
+Copyright 2024 HT Media Ltd. All Rights Reserved
+
+
+Length: 149 words
+Dateline: MUMBAI, India 
+Body
+
+
+MUMBAI, India, Jan. 26 -- Intellectual Property India has published a patent application (202218000451 A) filed by Amgen Inc., Thousand Oaks, U.S.A., on Jan. 4, 2022, for 'synthesis of omecamtiv mecarbil.'
+Inventor(s) include Caille, Sebastien; Quasdorf, Kyle; Roosen, Philipp; Shi, Xianqing; Cosbie, Andrew; Wang, Fang; Wu, Zufan; Neergunda, Archana; Quan, Bin, Peter; and Guan, Lianxiu. The application for the patent was published on Jan. 26, under issue no. 04/2024. According to the abstract released by the Intellectual Property India: "Provided herein is a synthesis for omecamtiv mecarbil dihydrochloride hydrate and various intermediates." The patent application was internationally filed on June 29, 2018, under International application No.PCT/US2018/040176. For any query with respect to this article or any other content requirement, please contact Editor at contentservices@htlive.com
+
+Load-Date: February 23, 2024
+
+
+End of Document
+
+
+
+
+
+
+Intellectual Property India Publishes Patent Application for 'Rnai Constructs For Inhibiting Hsd17b13 Expression And Methods Of Use Thereof' Filed by Amgen Inc.
+IPR
+February 16, 2024 Friday 7:06 PM  EST
+
+
+Copyright 2024 HT Media Ltd. All Rights Reserved
+
+
+Length: 171 words
+Dateline: MUMBAI, India 
+Body
+
+
+MUMBAI, India, Feb. 16 -- Intellectual Property India has published a patent application (202217075533 A) filed by Amgen Inc., Thousand Oaks, U.S.A., on Dec. 26, 2022, for 'rnai constructs for inhibiting hsd17b13 expression and methods of use thereof.'
+Inventor(s) include Lin Daniel C. H; Ollmann Michael; Murray Justin K.; Herberich Bradley J.; Das Amrita; Collins Patrick; and Homann Oliver. The application for the patent was published on Feb. 16, under issue no. 07/2024. According to the abstract released by the Intellectual Property India: "The present invention relates to RNAi constructs for reducing expression of the HSD17B13 gene. Methods of using such RNAi constructs to treat or prevent liver disease, nonalcoholic fatty liver disease (NAFLD) are also described." The patent application was internationally filed on June 03, 2021, under International application No.PCT/US2021/035730. For any query with respect to this article or any other content requirement, please contact Editor at contentservices@htlive.com
+
+Load-Date: March 19, 2024
+
+
+End of Document
