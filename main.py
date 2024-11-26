@@ -15,7 +15,7 @@ negative_sentiments: list[str] = (
 # Count sentiments in the file (meant to be run with both positive and negative lists)
 def count_sentiments(sentiments: list[str], file: str) -> int:
     sentiments = [s.lower() for s in sentiments]  # Convert sentiments to lowercase
-    with open(file, "r") as f:
+    with open(file, "r", encoding="utf-8") as f:
         text: str = f.read().lower()  # Convert text to lowercase
         count: int = 0
         for line in text.splitlines():
